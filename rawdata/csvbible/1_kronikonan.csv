@@ -1,0 +1,943 @@
+chapter,verse,"text"
+1,1,"Adam, Sèt, Enos,"
+1,2,"Kainán, Mahalaleel, Jared,"
+1,3,"Enok, Matusalen, Lamek,"
+1,4,"Noe, Sèm, Kam i Jafet."
+1,5,"E yu hòmbernan di Jafet tabata Gomer, Magòg, Madai, Javan, Tubal, Mesek i Tiras."
+1,6,"I e yu hòmbernan di Gomer tabata Askenaz, Rifat i Togarma."
+1,7,"I e yu hòmbernan di Javan tabata Elisa, Tarsis, Kitim i Dodanim."
+1,8,"E yu hòmbernan di Kam tabata Kus, Mizraim, Put i Kanaan."
+1,9,"I e yu hòmbernan di Kus tabata Seba, Havila, Sabta, Raama i Sabteka; i e yu hòmbernan di Raama tabata Seba i Dedan."
+1,10,"I Kus a engendrá Nimròd; esaki a kuminsá bira poderoso riba tera."
+1,11,"I Mizraim a engendrá e pueblo di Lud, Anam, Lehab, Naftu,"
+1,12,"Patrus, Kaslu, for di kualnan e filisteonan a sali, i e kaftoreonan."
+1,13,"I Kanaan a engendrá Sidon, su primogénito, i Hèt,"
+1,14,"i e jebuseonan, e amoreonan, e gergeseonan,"
+1,15,"e heveonan, e arakeonan, e sineonan,"
+1,16,"e arvadeonan, e zemareonan i e hamateonan."
+1,17,"E yu hòmbernan di Sèm tabata Elam, Asur, Arfaksad, Lud, Aram, Uz, Hul, Geter i Mesek."
+1,18,"I Arfaksad a engendrá Sela, i Sela a engendrá Heber."
+1,19,"I Heber a haña dos yu hòmber. Nòmber di esun tabata Peleg, pasobra den su dianan e tera a wòrdu dividí, i nòmber di su ruman hòmber tabata Joktan."
+1,20,"I Joktan a engendrá Almodad, Selef, Hazar-mavet, Jera,"
+1,21,"Hadoram, Uzal, Dikla,"
+1,22,"Ebal, Abimael, Seba,"
+1,23,"Ofir, Havila i Jobab; tur esakinan tabata e yu hòmbernan di Joktan."
+1,24,"Sèm, Arfaksad, Sela,"
+1,25,"Heber, Peleg, Reu,"
+1,26,"Serug, Nakor, Taré"
+1,27,"Abram, esta, Abraham."
+1,28,"E yu hòmbernan di Abraham tabata Isaak i Ismael."
+1,29,"Esakinan ta nan genealogianan: e primogénito di Ismael tabata Nebaiot, despues Kedar, Adbeel, Mibsam,"
+1,30,"Misma, Duma, Masa, Hadad, Tema,"
+1,31,"Jetur, Nafis i Kedema; esakinan tabata e yu hòmbernan di Ismael."
+1,32,"I e yu hòmbernan ku Ketura, Abraham su konkubina, a haña p'é, tabata: Zimran, Joksan, Medan, Madian, Isbak i Súa. I e yu hòmbernan di Joksan tabata Seba i Dedan."
+1,33,"I e yu hòmbernan di Madian tabata Efa, Efer, Hanok, Abida i Elda. Tur esakinan tabata e yu hòmbernan di Ketura."
+1,34,"I Abraham a engendrá Isaak. E yu hòmbernan di Isaak tabata Esau i Israel."
+1,35,"E yu hòmbernan di Esau tabata: Elifaz, Reuel, Jeús, Jaalam i Koré."
+1,36,"E yu hòmbernan di Elifaz tabata Teman, Omar, Zefo, Gatam, Kenaz, Timna i Amalek."
+1,37,"E yu hòmbernan di Reuel tabata: Nahat, Zera, Sama i Miza."
+1,38,"I e yu hòmbernan di Seir tabata Lotan, Sobal, Zibeon, Ana, Dison, Ezer i Disan."
+1,39,"I e yu hòmbernan di Lotan tabata Hori i Homam; i Timna tabata ruman muhé di Lotan."
+1,40,"E yu hòmbernan di Sobal tabata Alvan, Manahat, Ebal, Sefo i Onam. I e yu hòmbernan di Zibeon tabata Aja i Ana."
+1,41,"E yu hòmber di Ana tabata Dison. I e yu hòmbernan di Dison tabata Amram, Esban, Itran i Keran."
+1,42,"E yu hòmbernan di Ezer tabata Bilhan, Zaavan i Jaakan. E yu hòmbernan di Disan tabata Uz i Aran."
+1,43,"Awor esakinan ta e reinan ku a reina na tera di Edòm promé ku un rei di e yunan di Israel a yega di reina. Bela tabata yu hòmber di Beor, i nòmber di su stat tabata Dinaba."
+1,44,"Dia Bela a muri, Jobab, yu hòmber di Zera, di Bosra, a bira rei na su lugá."
+1,45,"Dia Jobab a muri, Husam di e tera di e temanitanan a bira rei na su lugá."
+1,46,"Dia Husam a muri, Hadad, yu hòmber di Bedad, kende a derotá Madian den e sabana di Moab, a bira rei na su lugá; i nòmber di su stat tabata Avit."
+1,47,"Dia Hadad a muri, Samla di Masreka a bira rei na su lugá."
+1,48,"Dia Samla a muri, Saul di Rehobot banda di e riu, a bira rei na su lugá."
+1,49,"Dia Saul a muri, Baal-hanan, yu hòmber di Akbor, a bira rei na su lugá."
+1,50,"Dia Baal-hanan a muri, Hadad a bira rei na su lugá; i nòmber di su stat tabata Pai, i nòmber di su esposa tabata Mehetabel, yu muhé di Matred, yu muhé di Mezahab."
+1,51,"Despues Hadad a muri. Awor e hefenan di Edòm tabata: hefe Timna, hefe Alva, hefe Jetet,"
+1,52,"hefe Aholibama, hefe Ela, hefe Pinon,"
+1,53,"hefe Kenaz, hefe Teman, hefe Mibzar,"
+1,54,"hefe Magdiel, hefe Iram. Esakinan tabata e hefenan di Edòm."
+2,1,"Esakinan ta e yu hòmbernan di Israel: Ruben, Simeon, Leví, Juda, Isakar, Zabulon,"
+2,2,"Dan, Jose, Benjamin, Nèftalí, Gad i Aser."
+2,3,"E yu hòmbernan di Juda tabata: Er, Onan i Sela; e tresnan aki Bat-súa e kananeo a haña p'é. I Er, Juda su primogénito, tabata malbado den bista di SEÑOR; pesei El a mat'é."
+2,4,"I su nuera Tamar a haña Fares i Zera p'é. Na tur Juda tabatin sinku yu hòmber."
+2,5,"E yu hòmbernan di Fares tabata: Hezron i Hamul."
+2,6,"I e yu hòmbernan di Zera tabata Zimri, Etan, Heman, Kalkol i Dara; sinku na tur."
+2,7,"I e yu hòmber di Karmi tabata Akan, esun ku a trese kalamidat riba Israel, pasobra el a kohe loke tabata maldishoná."
+2,8,"I e yu hòmber di Etan tabata Azarias."
+2,9,"Awor e yu hòmbernan ku a nase pa Hezron tabata Jerameel, Ram i Kelubai."
+2,10,"I Ram a engendrá Aminadab, i Aminadab a engendrá Nason, lider di e yu hòmbernan di Juda;"
+2,11,"Nason a engendrá Salmon, Salmon a engendrá Boaz,"
+2,12,"Boaz a engendrá Obed, i Obed a engendrá Isaí."
+2,13,"Isaí a engendrá Eliab, su primogénito, despues Abinadab, esun di dos, i Simea, esun di tres,"
+2,14,"Natanael, esun di kuater, Radai, esun di sinku,"
+2,15,"Ozem, esun di seis, David, esun di shete;"
+2,16,"i nan ruman muhénan tabata Sarvia i Abigail. I e tres yu hòmbernan di Sarvia tabata Abisai, Joab i Asael."
+2,17,"I Abigail a haña Amasa, i tata di Amasa tabata Jeter e ismaelita."
+2,18,"Awor Kalèb, yu hòmber di Hezron, a engendrá yu hòmbernan ku su esposa Azuba, i ku Jeriot; i esakinan tabata su yu hòmbernan: Jeser, Sobab i Ardon."
+2,19,"Dia Azuba a muri, Kalèb a kasa ku Efrata, kende a haña Hur p'é."
+2,20,"Anto Hur a engendrá Uri, i Uri a engendrá Bezaleel."
+2,21,"Despues Hezron a drumi ku yu muhé di Makir, tata di Galaad, ku kende el a kasa tempu ku e tabatin sesenta aña; i el a haña Zegub p'é."
+2,22,"I Zegub a engendrá Jair, kende tabatin bint'i tres stat na tera di Galaad."
+2,23,"Ma Gesur i Aram a kohe e statnan di Jair for di nan, huntu ku Kenat ku su pueblitonan, sesenta pueblito na tur. Tur esakinan tabata pertenesé na e yu hòmbernan di Makir, tata di Galaad."
+2,24,"I despues di morto di Hezron na Kalèb-efrata, Abias, esposa di Hezron, a haña Asur, tata di Tekoa, p'é."
+2,25,"Awor e yu hòmbernan di Jerameel, e primogénito di Hezron, tabata Ram, e primogénito, despues Buna, Oren, Ozem i Ahias."
+2,26,"I Jerameel tabatin un otro esposa, kende su nòmber tabata Atara; e tabata mama di Onam."
+2,27,"I e yu hòmbernan di Ram, e primogénito di Jerameel, tabata Maaz, Jamin i Eker."
+2,28,"I e yu hòmbernan di Onam tabata Samai i Jada. I e yu hòmbernan di Samai tabata Nadab i Abisur."
+2,29,"I nòmber di Abisur su esposa tabata Abihail, i el a haña Ahban i Molid p'é."
+2,30,"I e yu hòmbernan di Nadab tabata Seled i Apaim, i Seled a muri sin yu."
+2,31,"Isi tabata yu hòmber di Apaim. I Sesan tabata yu hòmber di Isi. I Ahlai tabata yu hòmber di Sesan."
+2,32,"I e yu hòmbernan di Jada, ruman hòmber di Samai, tabata Jeter i Jonatan, i Jeter a muri sin yu."
+2,33,"I e yu hòmbernan di Jonatan tabata Pelet i Zaza. Esakinan tabata e yu hòmbernan di Jerameel."
+2,34,"Awor Sesan no tabatin yu hòmber, sino yu muhé so. I Sesan tabatin un sirbidó egipsio ku tabata yama Jarha."
+2,35,"I Sesan a duna su yu muhé na su sirbidó Jarha komo esposa, i el a haña Atai p'é."
+2,36,"I Atai a engendrá Natan, i Natan a engendrá Zabad,"
+2,37,"i Zabad a engendrá Eflal, i Eflal a engendrá Obed,"
+2,38,"i Obed a engendrá Jehú, i Jehú a engendrá Azarias,"
+2,39,"i Azarias a engendrá Heles, i Heles a engendrá Elasa,"
+2,40,"i Elasa a engendrá Sismai, i Sismai a engendrá Salum,"
+2,41,"i Salum a engendrá Jekamias, i Jekamias a engendrá Elisama."
+2,42,"Awor e yu hòmbernan di Kalèb, ruman hòmber di Jerameel, tabata Mesa, su primogénito, kende tabata tata di Zif, i su yu hòmber tabata Maresa, tata di Hebròn."
+2,43,"I e yu hòmbernan di Hebròn tabata Koré, Tapúa, Rekem i Sema."
+2,44,"I Sema a engendrá Raham, tata di Jorkeam; anto Rekem a engendrá Samai."
+2,45,"I e yu hòmber di Samai tabata Maon, i Maon tabata tata di Bèt-sur."
+2,46,"I Efa, Kalèb su konkubina, a haña Haran, Mosa i Gazez; i Haran a engendrá Gazez."
+2,47,"I e yu hòmbernan di Jahdai tabata Regem, Jotam, Gesam, Pelet, Efa i Saaf."
+2,48,"Maaka, Kalèb su konkubina, a haña Seber i Tirhana."
+2,49,"Tambe el a haña Saaf, tata di Madmana, Seva, tata di Makbena i tata di Gibea; i Aksa tabata yu muhé di Kalèb."
+2,50,"Esakinan tabata e yu hòmbernan di Kalèb. E yu hòmbernan di Hur, e primogénito di Efrata, tabata Sobal, tata di Kiriat-jearim,"
+2,51,"Salma, tata di Bètlehèm, i Haref, tata di Bèt-gader."
+2,52,"Anto Sobal, tata di Kiriat-jearim, tabatin yu hòmber: Haroé, mitar di e manahetitanan,"
+2,53,"i e famianan di Kiriat-jearim: e itritanan, e putitanan, e sumatitanan i e misraitanan; for di esakinan a sali e zoratitanan i e estaolitanan."
+2,54,"E yu hòmbernan di Salma tabata Bètlehèm i e netofatitanan, Atrot-bèt-joab i mitar di e manahetitanan, e zoraitanan."
+2,55,"I e famianan di e eskribanan ku tabata biba na Jabes tabata e tirateonan, e simeateonan i e sukateonan. Eseinan ta e keneonan ku a sali for di Hamat, tata di e kas di Rekab."
+3,1,"Awor esakinan tabata e yu hòmbernan di David ku a nase p'é na Hebròn: e primogénito tabata Amnon, di Ahinoam e jezreelita; e di dos tabata Daniel, di Abigail e karmelita;"
+3,2,"e di tres tabata Absalon, yu hòmber di Maaka, yu muhé di Talmai, rei di Gesur; e di kuater tabata Adonias, yu hòmber di Haguit;"
+3,3,"e di sinku tabata Sefatias, yu hòmber di Abital; e di seis tabata Itream, di su esposa Egla."
+3,4,"Seis el a haña na Hebròn, i ayanan el a reina shete aña i seis luna. I na Jerusalèm el a reina trint'i tres aña."
+3,5,"I esakinan a nase p'é na Jerusalèm: Simea, Sobab, Natan i Salomon, kuater di Bat-súa, yu muhé di Amiel;"
+3,6,"i Ibhar, Elisama, Elifelet,"
+3,7,"Noga, Nefeg, Jafia,"
+3,8,"Elisama, Eliada i Elifelet, nuebe na tur."
+3,9,"Tur esakinan tabata e yu hòmbernan di David, sin konta e yu hòmbernan di e konkubinanan; i Tamar tabata nan ruman muhé."
+3,10,"Awor Salomon su yu hòmber tabata Roboam, Abias tabata su yu hòmber; i despues a sigui Abias su yu hòmber, Asa; i Asa su yu hòmber, Josafat;"
+3,11,"Josafat su yu hòmber, Joram; Joram su yu hòmber, Okozias; Okozias su yu hòmber, Joas;"
+3,12,"Joas su yu hòmber, Amasias; Amasias su yu hòmber, Azarias; Azarias su yu hòmber, Jotam;"
+3,13,"Jotam su yu hòmber, Akaz; Akaz su yu hòmber, Ezekias; Ezekias su yu hòmber, Manasés;"
+3,14,"Manasés su yu hòmber, Amon; Amon su yu hòmber, Josias."
+3,15,"I e yu hòmbernan di Josias tabata: Johanan, e primogénito, i e di dos tabata Joakim, e di tres, Sedekias, e di kuater, Salum."
+3,16,"I e yu hòmbernan di Joakim tabata: su yu hòmber Jekonias, Jekonias su yu hòmber Sedekias."
+3,17,"I e yu hòmbernan di Jekonias, e prizonero, tabata su yu hòmber Salatiel,"
+3,18,"i Malkiram, Pedaias, Senazar, Jekamias, Hosama i Nedabias."
+3,19,"I e yu hòmbernan di Pedaias tabata Zorobabel i Simei. I e yu hòmbernan di Zorobabel tabata Mesulam i Hananias, i Selomit tabata nan ruman muhé;"
+3,20,"i Hasuba, Ohel, Berekias, Hasadias i Jusab-hesed, sinku na tur."
+3,21,"I e yu hòmbernan di Hananias tabata Pelatias i Jesaias, yu hòmbernan di Refaias, yu hòmbernan di Arnan, yu hòmbernan di Abdias, yu hòmbernan di Sekanias."
+3,22,"I e yu hòmber di Sekanias tabata Semaias i e yu hòmbernan di Semaias tabata Hatus, Igal, Barias, Nearias i Safat, seis na tur."
+3,23,"I e yu hòmbernan di Nearias tabata Elioenai, Ezekias i Azrikam, tres na tur."
+3,24,"I e yu hòmbernan di Elioenai tabata Hodavias, Eliasib, Pelaias, Akub, Johanan, Dalaias i Anani, shete na tur."
+4,1,"E yu hòmbernan di Juda tabata Fares, Hezron, Karmi, Hur i Sobal."
+4,2,"I Reaia, yu hòmber di Sobal, a engendrá Jahat, i Jahat a engendrá Ahumai i Lahad. Esakinan tabata e famianan di e zoratitanan."
+4,3,"I esakinan tabata e yu hòmbernan di Etam: Jezreel, Isma i Idbas; i nòmber di nan ruman muhé tabata Haze-lelponi."
+4,4,"I Penuel tabata tata di Gedor, i Ezer tabata tata di Husa. Esakinan tabata e yu hòmbernan di Hur, e primogénito di Efrata, tata di Bètlehèm."
+4,5,"I Asur, tata di Tekoa, tabatin dos esposa, Hela i Naara."
+4,6,"I Naara a haña Ahuzam, Hefer, Temeni i Ahastari p'é. Esakinan tabata e yu hòmbernan di Naara."
+4,7,"I e yu hòmbernan di Hela tabata Zeret, Jezoar i Etnan."
+4,8,"I Kos a engendrá Anub i Zobeba i e famianan di Aharhel, yu hòmber di Harum."
+4,9,"I Jabes tabata mas onorabel ku su ruman hòmbernan, i su mama a yam'é Jabes, bisando: \"Pasobra ta ku doló mi a hañ'é.\""
+4,10,"Awor Jabes a invoká e Dios di Israel, bisando: \"O ku Abo lo a bendishonámi di bèrdat i hasi mi teritorio mas grandi, i ku Bo man lo ta ku mi, i ku Abo lo a wardami di malu, pa pena no tokami!\" I Dios a dun'é loke ku el a pidi."
+4,11,"I Kelub, ruman hòmber di Súa, a engendrá Mehir, kende tabata tata di Eston."
+4,12,"I Eston a engendrá Bèt-rafa i Paseah i Tehina, tata di Ir-nahas. Esakinan ta e hòmbernan di Reka."
+4,13,"Awor e yu hòmbernan di Kenaz tabata Otoniel i Seraias. I e yu hòmber di Otoniel tabata Hatat."
+4,14,"I Meonotai a engendrá Ofra, i Seraias a engendrá Joab, tata di e habitantenan di e vaye di Karisim, pasobra nan tabata artesano."
+4,15,"I e yu hòmbernan di Kalèb, yu hòmber di Jefone, tabata Iru, Ela i Naam; i e yu hòmber di Ela tabata Kenaz."
+4,16,"I e yu hòmbernan di Jehalelel tabata Zif i Zifa, Tirias i Asareel."
+4,17,"I e yu hòmbernan di Esdras tabata Jeter, Mered, Efer i Jalon. I esakinan ta e yu hòmbernan di Bitia, yu muhé di Farao, ku kende Mered a kasa. I Bitia a konsebí i a haña Miriam, Samai i Isba, tata di Estemoa."
+4,18,"I su esposa hudiu a haña Jered, tata di Gedor, i Heber, tata di Soko, i Jekutiel, tata di Zanoa."
+4,19,"I e yu hòmbernan di Hodias su esposa, ruman muhé di Naham, tabata tata di Keila e garmita, i Estemoa e maakatita."
+4,20,"I e yu hòmbernan di Simon tabata Amnon i Rina, Bèn-hanan i Tilon. I e yu hòmbernan di Isi tabata Zohet i Bèn-zohet."
+4,21,"E yu hòmbernan di Sela, yu hòmber di Juda, tabata Er, tata di Leka, i Laada, tata di Maresa, i e famianan di esnan ku tabata traha lino fini na Bèt-asbea;"
+4,22,"i Jokim, e hòmbernan di Kozeba, Joas i Saraf, kendenan tabata goberná na Moab, i Jasubi-lehèm. I e registronan aki ta antiguo."
+4,23,"Esakinan tabata e alfareronan i e habitantenan di Netaim i Gedera; nan tabata biba ayanan serka rei, den su sirbishi."
+4,24,"E yu hòmbernan di Simeon tabata Nemuel i Jamin, Jarib, Zera, Saul;"
+4,25,"Saul su yu hòmber, Salum, Salum su yu hòmber, Mibsam; Mibsam su yu hòmber, Misma."
+4,26,"I e yu hòmbernan di Misma tabata: su yu hòmber, Hamuel; Hamuel su yu hòmber, Zakur; Zakur su yu hòmber, Simei."
+4,27,"Awor Simei tabatin dieseis yu hòmber i seis yu muhé; ma su ruman hòmbernan no tabatin hopi yu hòmber; tampoko ningun di nan famianan no a multipliká tantu asina manera e yu hòmbernan di Juda."
+4,28,"I nan tabata biba na Beerseba, Molada i Hazar-sual,"
+4,29,"na Bilha, Ezem, Tolad,"
+4,30,"Bètuel, Horma, Siklag,"
+4,31,"Bèt-markabot, Hazar-susim, Bèt-birai i Saaraim. Esakinan tabata nan statnan te na e reinado di David."
+4,32,"I nan pueblitonan tabata Etam, Ain, Rimon, Token i Asan, sinku stat--"
+4,33,"i tur nan pueblitonan ku tabata rònt di e statnan aki te na Baal. Esakinan tabata nan lugánan di biba, i nan tin nan genealogia."
+4,34,"I Mesobab i Jamlek i Josa, yu hòmber di Amasias,"
+4,35,"i Joel i Jehú, yu hòmber di Josibias, yu hòmber di Seraias, yu hòmber di Asiel,"
+4,36,"i Elioenai, Jaakoba, Jesohaia, Asaias, Adiel, Jesimiel, Bènaia,"
+4,37,"Ziza, yu hòmber di Sifi, yu hòmber di Alon, yu hòmber di Jedaias, yu hòmber di Simri, yu hòmber di Semaias."
+4,38,"E hòmbernan aki, menshoná na nan nòmber, tabata lidernan di nan famianan; i e kasnan di nan tatanan tabata multipliká na gran manera."
+4,39,"I nan a bai na e entrada di Gedor, na e banda pariba di e vaye, pa buska lugá di yerba bèrdè pa nan tounan di bestia chikitu."
+4,40,"I nan a haña un lugá di yerba bèrdè riku i bon, i e tera tabata espasioso, ketu i trankil; pasobra esnan ku tabata biba ayanan antes tabata hamitanan."
+4,41,"I esakinan, registrá na nan nòmber, a bin den e dianan di Ezekias, rei di Juda, i a destruí nan tèntnan i e meunitanan ku tabata ayanan, i a destruí nan kompletamente te dia djawe, i a bai biba na nan lugá, pasobra tabatin lugá di yerba bèrdè pa nan tounan di bestia chikitu."
+4,42,"I for di nan, for di e yu hòmbernan di Simeon, sinku shen hòmber a bai Seru Seir, huntu ku Pelatias, Nearias, Refaias i Uziel, yu hòmbernan di Isi, komo nan lidernan."
+4,43,"I nan a destruí e restante di e amalekitanan ku a skapa, i a keda biba ayanan te dia djawe."
+5,1,"Awor e yu hòmbernan di Ruben, e primogénito di Israel (pasobra e tabata e primogénito, ma pasobra el a desonrá kama di su tata, su derecho di primogenitura a wòrdu duná na e yu hòmbernan di Jose, yu hòmber di Israel, asina ku e no ta registrá den e genealogia, konforme e primogenitura."
+5,2,"Ounke Juda a prevalesé riba su ruman hòmbernan, i for di djé a sali e lider, tòg e derecho di primogenitura tabata pertenesé na Jose),"
+5,3,"e yu hòmbernan di Ruben, e primogénito di Israel tabata Hanok, Palú, Hezron i Karmi."
+5,4,"E yu hòmbernan di Joel tabata: su yu hòmber Semaias; Semaias su yu hòmber, Gòg; Gòg su yu hòmber, Simei;"
+5,5,"Simei su yu hòmber, Mikaia; Mikaia su yu hòmber, Reaia; Reaia su yu hòmber, Baal;"
+5,6,"Baal su yu hòmber, Beera, kende Tiglat-pileser, rei di Asiria, a hiba den eksilio; e tabata lider di e rubenitanan."
+5,7,"I su ruman hòmbernan segun nan famianan, den e genealogia di nan generashonnan, tabata: hefe Jeiel, despues Zakarias"
+5,8,"i Bela, yu hòmber di Azaz, yu hòmber di Sema, yu hòmber di Joel, kende tabata biba na Aroer, te na Nebo i Baal-meon."
+5,9,"I parti pariba e tabata biba na rant di e desierto, for di Riu Eufrates, pasobra nan bestianan di kria a oumentá na tera di Galaad."
+5,10,"I den e dianan di Saul nan a hasi guera ku e hagarenonan, kendenan a muri na nan man, asina ku nan a bai biba den e tèntnan di e hagarenonan, na henter e tera pariba di Galaad."
+5,11,"Awor e yu hòmbernan di Gad tabata biba enfrente di nan, na tera di Basan, te na Salka."
+5,12,"Joel tabata e hefe, i Safan e di dos, despues Jaanai i Safat na Basan."
+5,13,"I nan ruman hòmbernan di e kasnan di nan tatanan tabata Mikael, Mesulam, Seba, Jorai, Jakan, Zia i Heber, shete na tur."
+5,14,"Esakinan tabata e yu hòmbernan di Abihail, yu hòmber di Huri, yu hòmber di Jaroa, yu hòmber di Galaad, yu hòmber di Mikael, yu hòmber di Jesisai, yu hòmber di Jahdo, yu hòmber di Buz;"
+5,15,"Ahi, yu hòmber di Abdiel, yu hòmber di Guni, tabata e kabes di e kasnan di nan tatanan."
+5,16,"I nan tabata biba na Galaad, na Basan i den su pueblitonan i na tur e lugánan di yerba bèrdè di Saron, te na nan fronteranan."
+5,17,"Tur esakinan tabata inskribí den e genealogianan den e dianan di Jotam, rei di Juda, i den e dianan di Jeroboam, rei di Israel."
+5,18,"E yu hòmbernan di Ruben i e gaditanan i e mitar tribu di Manasés, hòmbernan balente, hòmbernan ku tabata karga eskudo i spada, ku tabata tira ku bog i ku tabata kapasitá pa bringa den bataya, tabata kuarent'i kuater mil shete shent'i sesenta ku a bai guera."
+5,19,"I nan a hasi guera kontra e hagarenonan, Jetur, Nafis i Nodab."
+5,20,"I nan a wòrdu yudá kontra nan, i e hagarenonan i tur ku tabata huntu ku nan a wòrdu entregá den nan man, pasobra nan a sklama na Dios den bataya, i El a skucha nan, pasobra nan a pone nan konfiansa den djE."
+5,21,"I nan a bai ku nan bestianan di kria: sinkuenta mil kamel, dos shent'i sinkuenta mil karné, dos mil buriku, i shen mil hende."
+5,22,"I hopi a muri, pasobra e guera tabata di Dios. I nan a stablesé nan mes na nan lugá te na e eksilio."
+5,23,"Awor e yu hòmbernan di e mitar tribu di Manasés tabata biba na e tera; nan tabata numeroso, for di Basan te na Baal-hermon, Senir i Seru Hermon."
+5,24,"I esakinan tabata e kabesnan di e kasnan di nan tatanan: Efer, Isi, Eliel, Azriel, Jeremias, Hodavias i Jahdiel, hòmbernan poderoso i balente, hòmbernan famoso, kabesnan di e kasnan di nan tatanan."
+5,25,"Ma nan a peka kontra e Dios di nan tatanan, i a prostituí nan mes dor di sigui e diosnan di e pueblonan di e tera, ku Dios a destruí nan dilanti."
+5,26,"Asina e Dios di Israel a animá e spiritu di Pul, rei di Asiria (esta, Tiglat-pileser, rei di Asiria), kende a hiba e rubenitanan, e gaditanan i e mitar tribu di Manasés den eksilio. El a hiba nan na Hala, Habor, Hara, i na Riu Gozan, te dia djawe."
+6,1,"E yu hòmbernan di Leví tabata Gerson, Koat i Merari."
+6,2,"I e yu hòmbernan di Koat tabata Amram, Izhar, Hebròn i Uziel."
+6,3,"I e yunan di Amram tabata Aaron, Moisés i Miriam. I e yu hòmbernan di Aaron tabata Nadab, Abiú, Eleazar i Itamar."
+6,4,"Eleazar a engendrá Finees, i Finees a engendrá Abisúa,"
+6,5,"i Abisúa a engendrá Buki, i Buki a engendrá Uzi,"
+6,6,"i Uzi a engendrá Zeraias, i Zeraias a engendrá Meraiot,"
+6,7,"Meraiot a engendrá Amarias, i Amarias a engendrá Ahitob,"
+6,8,"i Ahitob a engendrá Sadok, i Sadok a engendrá Ahimaas,"
+6,9,"i Ahimaas a engendrá Azarias, i Azarias a engendrá Johanan,"
+6,10,"i Johanan a engendrá Azarias (ta é a sirbi komo saserdote den e kas ku Salomon a traha na Jerusalèm),"
+6,11,"i Azarias a engendrá Amarias, i Amarias a engendrá Ahitob,"
+6,12,"i Ahitob a engendrá Sadok, i Sadok a engendrá Salum,"
+6,13,"i Salum a engendrá Hilkias, i Hilkias a engendrá Azarias,"
+6,14,"i Azarias a engendrá Seraias, i Seraias a engendrá Josadak;"
+6,15,"i Josadak a bai den eksilio dia ku SEÑOR a hiba Juda i Jerusalèm den eksilio pa medio di man di Nabukodonosor."
+6,16,"E yu hòmbernan di Leví tabata Gerson, Koat i Merari."
+6,17,"I esakinan ta e nòmbernan di e yu hòmbernan di Gerson: Libni i Simei."
+6,18,"I e yu hòmbernan di Koat tabata Amram, Izhar, Hebròn i Uziel."
+6,19,"E yu hòmbernan di Merari tabata Mahli i Musi. I esakinan ta e famianan di e levitanan, segun e kasnan di nan tatanan."
+6,20,"Di Gerson: su yu hòmber, Libni; Libni su yu hòmber, Jahat; Jahat su yu hòmber, Zima;"
+6,21,"Zima su yu hòmber, Joa; Joa su yu hòmber, Ido; Ido su yu hòmber, Zera; Zera su yu hòmber, Jeatrai."
+6,22,"E yu hòmbernan di Koat: su yu hòmber, Aminadab; Aminadab su yu hòmber, Koré; Koré su yu hòmber, Asir;"
+6,23,"Asir su yu hòmber, Elkana; Elkana su yu hòmber, Ebiasaf i Ebiasaf su yu hòmber, Asir;"
+6,24,"Asir su yu hòmber, Tahat; Tahat su yu hòmber, Uriel; Uriel su yu hòmber, Uzias; Uzias su yu hòmber, Saul."
+6,25,"I e yu hòmbernan di Elkana: Amasai i Ahimot."
+6,26,"Pa loke ta Elkana, e yu hòmbernan di Elkana tabata su yu hòmber Zofai i Zofai su yu hòmber, Nahat;"
+6,27,"Nahat su yu hòmber, Eliab; Eliab su yu hòmber, Jeroham; Jeroham su yu hòmber, Elkana."
+6,28,"I e yu hòmbernan di Samuel tabata Joel, e primogénito i Abias, e di dos."
+6,29,"E yu hòmbernan di Merari tabata: Mahli; Mahli su yu hòmber, Libni; Libni su yu hòmber, Simei; Simei su yu hòmber, Uza;"
+6,30,"Uza su yu hòmber, Simea; Simea su yu hòmber, Haguia; Haguia su yu hòmber, Asaias."
+6,31,"Awor esakinan ta esnan ku David a nombra riba e sirbishi di kantamentu den e kas di SEÑOR, despues ku e arka a haña su lugá di sosiegu ayanan."
+6,32,"I nan tabata sirbi ku kantamentu dilanti di e tabernakel di e tènt di reunion, te dia Salomon a traha e kas di SEÑOR na Jerusalèm; i nan a sirbi den nan puesto konforme nan kustumber."
+6,33,"I esakinan ta esnan ku tabata sirbi huntu ku nan yu hòmbernan. Di e yu hòmbernan di e koatitanan Heman tabata e kantadó, yu hòmber di Joel, yu hòmber di Samuel,"
+6,34,"yu hòmber di Elkana, yu hòmber di Jeroham, yu hòmber di Eliel, yu hòmber di Toa,"
+6,35,"yu hòmber di Zuf, yu hòmber di Elkana, yu hòmber di Mahat, yu hòmber di Amasai,"
+6,36,"yu hòmber di Elkana, yu hòmber di Joel, yu hòmber di Azarias, yu hòmber di Sofonias,"
+6,37,"yu hòmber di Tahat, yu hòmber di Asir, yu hòmber di Ebiasaf, yu hòmber di Koré,"
+6,38,"yu hòmber di Izhar, yu hòmber di Koat, yu hòmber di Leví, yu hòmber di Israel."
+6,39,"I Asaf, ruman hòmber di Heman, tabata pará na su man drechi, esta, Asaf, yu hòmber di Berekias, yu hòmber di Simea,"
+6,40,"yu hòmber di Mikael, yu hòmber di Baasias, yu hòmber di Malkias,"
+6,41,"yu hòmber di Etni, yu hòmber di Zera, yu hòmber di Adaia,"
+6,42,"yu hòmber di Etan, yu hòmber di Zima, yu hòmber di Simei,"
+6,43,"yu hòmber di Jahat, yu hòmber di Gerson, yu hòmber di Leví."
+6,44,"I na man robes nan rumannan, e yu hòmbernan di Merari: Etan, yu hòmber di Kisi, yu hòmber di Abdi, yu hòmber di Maluk,"
+6,45,"yu hòmber di Hasabias, yu hòmber di Amasias, yu hòmber di Hilkias,"
+6,46,"yu hòmber di Amsi, yu hòmber di Bani, yu hòmber di Semer,"
+6,47,"yu hòmber di Mahli, yu hòmber di Musi, yu hòmber di Merari, yu hòmber di Leví."
+6,48,"I nan rumannan, e levitanan, a wòrdu nombrá pa henter e sirbishi di e tabernakel di e kas di Dios."
+6,49,"Ma Aaron ku su yu hòmbernan tabata ofresé sakrifisio riba e altar di ofrenda kimá i riba e altar di sensia, pa henter e trabou di e lugá santísimo, i pa hasi ekspiashon pa Israel, konforme tur loke Moisés, e sirbidó di Dios, a ordená."
+6,50,"I esakinan ta e yu hòmbernan di Aaron: su yu hòmber, Eleazar; Eleazar su yu hòmber, Finees; Finees su yu hòmber, Abisúa;"
+6,51,"Abisúa su yu hòmber, Buki; Buki su yu hòmber, Uzi; Uzi su yu hòmber, Zeraias;"
+6,52,"Zeraias su yu hòmber, Meraiot; Meraiot su yu hòmber, Amarias; Amarias su yu hòmber, Ahitob;"
+6,53,"Ahitob su yu hòmber, Sadok; Sadok su yu hòmber, Ahimaas."
+6,54,"Awor esakinan ta nan lugánan di biba segun nan kampamentunan den nan fronteranan. Na e yu hòmbernan di Aaron, kendenan tabata pertenesé na e famianan di e koatitanan (na kendenan a toka e suerte di haña e promé lòt),"
+6,55,"na nan nan a duna Hebròn na tera di Juda, i su lugánan di yerba bèrdè rònt di djé;"
+6,56,"ma e kunukunan di e stat i su pueblitonan nan a duna Kalèb, yu hòmber di Jefone."
+6,57,"I na e yu hòmbernan di Aaron nan a duna e siguiente statnan di refugio: Hebròn, tambe Libna ku su lugánan di yerba bèrdè, Jatir, Estemoa ku su lugánan di yerba bèrdè,"
+6,58,"Hilen ku su lugánan di yerba bèrdè, Debir ku su lugánan di yerba bèrdè,"
+6,59,"Asan ku su lugánan di yerba bèrdè i Bèt-semes ku su lugánan di yerba bèrdè;"
+6,60,"i for di e tribu di Benjamin: Geba ku su lugánan di yerba bèrdè, Alemet ku su lugánan di yerba bèrdè, i Anatot ku su lugánan di yerba bèrdè. Tur nan statnan, repartí den tur nan famianan, tabata diestres stat."
+6,61,"Despues na e restu di e yu hòmbernan di Koat nan a duna pa medio di lòt, for di e famia di e tribu, for di e mitar tribu, mitar di Manasés, dies stat."
+6,62,"I na e yu hòmbernan di Gerson, segun nan famianan, a wòrdu duná for di e tribu di Isakar i for di e tribu di Aser, e tribu di Nèftalí i e tribu di Manasés, diestres stat na Basan."
+6,63,"Na e yu hòmbernan di Merari a wòrdu duná pa medio di lòt, segun nan famianan, for di e tribu di Ruben, e tribu di Gad i e tribu di Zabulon, diesdos stat."
+6,64,"Asina e yunan di Israel a duna e levitanan e statnan huntu ku nan lugánan di yerba bèrdè."
+6,65,"I nan a duna pa medio di lòt, for di e tribu di e yu hòmbernan di Juda, e tribu di e yu hòmbernan di Simeon i e tribu di e yu hòmbernan di Benjamin, e statnan aki ku ta menshoná na nan nòmber."
+6,66,"I algun di e famianan di e yu hòmbernan di Koat a risibí, komo nan teritorio, statnan for di e tribu di Efrain."
+6,67,"I nan a duna nan e siguiente statnan di refugio: Sikem ku su lugánan di yerba bèrdè, den e serunan di Efrain, tambe Gezer ku su lugánan di yerba bèrdè,"
+6,68,"Jokmeam ku su lugánan di yerba bèrdè, Bèt-horon ku su lugánan di yerba bèrdè,"
+6,69,"Ajalon ku su lugánan di yerba bèrdè, i Gat-rimon ku su lugánan di yerba bèrdè;"
+6,70,"i for di e mitar tribu di Manasés: Aner ku su lugánan di yerba bèrdè, i Bileam ku su lugánan di yerba bèrdè, pa e restu di famia di e yu hòmbernan di Koat."
+6,71,"Na e yu hòmbernan di Gerson a wòrdu duná, for di famia di e mitar tribu di Manasés: Golan na Basan ku su lugánan di yerba bèrdè i Astarot ku su lugánan di yerba bèrdè;"
+6,72,"i for di e tribu di Isakar: Kedes ku su lugánan di yerba bèrdè, Daberat ku su lugánan di yerba bèrdè,"
+6,73,"i Ramot ku su lugánan di yerba bèrdè, Anem ku su lugánan di yerba bèrdè;"
+6,74,"i for di e tribu di Aser: Masal ku su lugánan di yerba bèrdè, Abdon ku su lugánan di yerba bèrdè,"
+6,75,"Hukok ku su lugánan di yerba bèrdè, i Rehob ku su lugánan di yerba bèrdè;"
+6,76,"i for di e tribu di Nèftalí: Kedes na Galilea ku su lugánan di yerba bèrdè, Hamon ku su lugánan di yerba bèrdè, i Kiriataim ku su lugánan di yerba bèrdè."
+6,77,"Na e restu di e levitanan, e yu hòmbernan di Merari, a wòrdu duná, for di e tribu di Zabulon: Rimon ku su lugánan di yerba bèrdè, Tabor ku su lugánan di yerba bèrdè;"
+6,78,"i na e otro banda di Jordan na Jeriko, na e banda pariba di Jordan, a wòrdu duná na nan, for di e tribu di Ruben: Beser den desierto ku su lugánan di yerba bèrdè, Jaza ku su lugánan di yerba bèrdè,"
+6,79,"Kademot ku su lugánan di yerba bèrdè, i Mefaat ku su lugánan di yerba bèrdè;"
+6,80,"i for di e tribu di Gad: Ramot di Galaad ku su lugánan di yerba bèrdè, Mahanaim ku su lugánan di yerba bèrdè,"
+6,81,"Hesbon ku su lugánan di yerba bèrdè i Jazer ku su lugánan di yerba bèrdè."
+7,1,"Awor e yu hòmbernan di Isakar tabata kuater: Tola, Púa, Jasub i Simron."
+7,2,"I e yu hòmbernan di Tola: Uzi, Refaias, Jeriel, Jahmai, Ibsam i Samuel, kabesnan di e kasnan di nan tatanan. E yu hòmbernan di Tola tabata hòmbernan poderoso i balente den nan generashonnan; nan kantidat den e dianan di David tabata 22.600."
+7,3,"I e yu hòmber di Uzi tabata Israhias. I e yu hòmbernan di Israhias tabata Mikael, Obadias, Joel, Isias; nan tur sinku tabata hòmbernan lider."
+7,4,"I huntu ku nan, segun nan generashonnan, konforme e kasnan di nan tatanan, tabatin 36.000 trupa di e ehérsito pa bringa den guera, pasobra nan tabatin hopi esposa i yu hòmber."
+7,5,"I nan rumannan for di tur e famianan di Isakar tabata hòmbernan poderoso i balente, registrá segun genealogia, na tur 87.000."
+7,6,"E yu hòmbernan di Benjamin tabata tres: Bela, Beker i Jediael."
+7,7,"I e yu hòmbernan di Bela tabata sinku: Ezbon, Uzi, Uziel, Jerimot i Iri. Nan tabata kabesnan di e kasnan di nan tatanan, hòmbernan poderoso i balente, i nan tabata 22.034, registrá segun genealogia."
+7,8,"I e yu hòmbernan di Beker tabata Zemira, Joas, Eliezer, Elioenai, Omri, Jerimot, Abias, Anatot i Alamet. Tur esakinan tabata yu hòmbernan di Beker."
+7,9,"I nan tabata registrá segun genealogia, segun nan generashon, kabesnan di e kasnan di nan tatanan, 20.200 hòmber poderoso i balente."
+7,10,"I e yu hòmber di Jediael tabata Bilhan. I e yu hòmbernan di Bilhan tabata Jeús, Benjamin, Aod, Kenaana, Zetan, Tarsis i Ahisahar."
+7,11,"Tur esakinan tabata yu hòmbernan di Jediael, segun e kabesnan di e kasnan di nan tatanan, 17.200 hòmber poderoso i balente, ku tabata kla pa sali bai guera ku e ehérsito."
+7,12,"I Supim i Hupim tabata yu hòmbernan di Ir; Husim tabata yu hòmber di Aher."
+7,13,"E yu hòmbernan di Nèftalí tabata Jahzeel, Guni, Jezer i Salum, e yu hòmbernan di Bilha."
+7,14,"E yu hòmbernan di Manasés tabata Asriel, ku su konkubina arameo a haña; el a haña Makir, tata di Galaad."
+7,15,"I Makir a tuma e ruman muhé di Hupim i Supim komo esposa, kende su nòmber tabata Maaka. I nòmber di e di dos tabata Zelofehad, i Zelofehad tabatin yu muhénan."
+7,16,"I Maaka, esposa di Makir, a haña un yu hòmber, i el a yam'é Peres; i nòmber di su ruman hòmber tabata Seres, i su yu hòmbernan tabata Ulam i Rekem."
+7,17,"I e yu hòmber di Ulam tabata Bedan. Esakinan tabata e yu hòmbernan di Galaad, yu hòmber di Makir, yu hòmber di Manasés."
+7,18,"I su ruman muhé Hamoleket a haña Isod, Abiezer i Mahala."
+7,19,"I e yu hòmbernan di Semida tabata Ahian, Sikem, Likhi i Aniam."
+7,20,"I e yu hòmbernan di Efrain tabata Sutela i su yu hòmber Bered; Bered su yu hòmber, Tahat; Tahat su yu hòmber, Elada; Elada su yu hòmber, Tahat;"
+7,21,"Tahat su yu hòmber, Zabad; Zabad su yu hòmber, Sutela; i Ezer i Elad, kendenan e hòmbernan di Gat, ku a nase na e tera ei, a mata, pasobra nan a bin pa kohe nan bestianan di kria."
+7,22,"I nan tata Efrain a tene rou pa hopi dia, i su rumannan a bin pa konsol'é."
+7,23,"Despues el a drumi ku su esposa, i esaki a konsebí i a haña un yu hòmber, i Efrain a yam'é Beria, pasobra kalamidat a bin riba su kas."
+7,24,"I su yu muhé tabata Seera, kende a traha Bèt-horon abou i Bèt-horon ariba i tambe Uzen-seera."
+7,25,"I Refa tabata su yu hòmber i tambe Resef; Resef su yu hòmber, Telah; Telah su yu hòmber, Tahan;"
+7,26,"Tahan su yu hòmber, Laadan; Laadan su yu hòmber, Amiud; Amiud su yu hòmber, Elisama;"
+7,27,"Elisama su yu hòmber, Nun; i Nun su yu hòmber, Josué."
+7,28,"I nan propiedatnan i stablesimentunan tabata Bèt-èl ku su statnan; i parti pariba, Naaran, i parti pabou, Gezer ku su statnan; i Sikem ku su statnan te na Gaza ku su statnan,"
+7,29,"i na e fronteranan di e yu hòmbernan di Manasés: Bèt-sean ku su statnan, Taanak ku su statnan, Meguido ku su statnan i Dor ku su statnan. Den esakinan e yu hòmbernan di Jose, yu hòmber di Israel, tabata biba."
+7,30,"E yu hòmbernan di Aser tabata Imna, Isúa, Isúi, Beria i nan ruman muhé Sera."
+7,31,"I e yu hòmbernan di Beria tabata Heber i Malkiel, kende tabata tata di Birzavit."
+7,32,"I Heber a engendrá Jaflet, Somer i Hotam, i nan ruman muhé Súa."
+7,33,"I e yu hòmbernan di Jaflet tabata Pasak, Bimhal i Asvat. Esakinan tabata e yu hòmbernan di Jaflet."
+7,34,"I e yu hòmbernan di Semer tabata Ahi, Rohga, Jehuba i Aram."
+7,35,"E yu hòmbernan di su ruman hòmber Helem tabata Zofa, Imna, Seles i Amal."
+7,36,"E yu hòmbernan di Zofa tabata Súa, Harnefer, Sual, Beri, Imra,"
+7,37,"Beser, Hod, Sama, Silsa, Itran i Beera."
+7,38,"I e yu hòmbernan di Jeter tabata Jefone, Pispa i Ara."
+7,39,"I e yu hòmbernan di Ula tabata Ara, Haniel i Rizia."
+7,40,"Tur esakinan tabata yu hòmbernan di Aser, kabesnan di e kasnan di e tatanan, hòmbernan skohí, poderoso i balente, kabesantenan di e prensnan. I nan a wòrdu registrá segun genealogia pa sirbishi den guera, un total di 26.000 hòmber."
+8,1,"I Benjamin a engendrá Bela, su primogénito, Asbel, esun di dos, Ahara, esun di tres,"
+8,2,"Noha, esun di kuater, i Rafa, esun di sinku."
+8,3,"E yu hòmbernan di Bela tabata: Adar, Gera, Abiud,"
+8,4,"Abisúa, Naaman, Ahoa,"
+8,5,"Gera, Sefufan i Huram."
+8,6,"I esakinan ta e yu hòmbernan di Aod: esakinan ta e kabesnan di e kasnan di e tatanan di e habitantenan di Geba, i nan a wòrdu hibá den eksilio na Manahat,"
+8,7,"esta, Naaman, Ahias i Gera el a hiba den eksilio; i el a engendrá Uza i Ahiud."
+8,8,"I Saharaim a engendrá yunan na tera di Moab, despues ku el a manda su esposanan, Husim i Baara, bai."
+8,9,"I ku su esposa Hodes el a engendrá Jobab, Sibia, Mesa, Malkam,"
+8,10,"Jeúz, Sakias i Mirma. Esakinan tabata su yu hòmbernan, kabesnan di e kasnan di e tatanan."
+8,11,"I ku Husim el a engendrá Abitob i Elpaal."
+8,12,"I e yu hòmbernan di Elpaal tabata Heber, Misam i Semed, kende a traha Ono i Lod ku su statnan;"
+8,13,"i Beria i Sema, kendenan tabata e kabesnan di e kasnan di e tatanan di e habitantenan di Ajalon, i kendenan a kore ku e habitantenan di Gat;"
+8,14,"i Ahio, Sasak, i Jeremot."
+8,15,"I Zebadias, Arad, Eder,"
+8,16,"Mikael, Ispa i Joha tabata e yu hòmbernan di Beria."
+8,17,"I Zebadias, Mesulam, Hizki, Heber,"
+8,18,"Ismerai, Jezlias i Jobab tabata e yu hòmbernan di Elpaal."
+8,19,"I Jakim, Zikri, Zabdi,"
+8,20,"Elienai, Ziletai, Eliel,"
+8,21,"Adaias, Beraias i Simrat tabata e yu hòmbernan di Simei."
+8,22,"I Ispan, Heber, Eliel,"
+8,23,"Abdon, Zikri, Hanan,"
+8,24,"Hananias, Elam, Anatotias,"
+8,25,"Ifdaias i Peniel tabata e yu hòmbernan di Sasak."
+8,26,"I Samserai, Seharias, Atalias,"
+8,27,"Jaresias, Elias i Zikri tabata e yu hòmbernan di Jeroham."
+8,28,"Esakinan tabata e kabesnan di e kasnan di e tatanan segun nan generashonnan, hòmbernan lider, ku tabata biba na Jerusalèm."
+8,29,"Awor na Gabaon, Jehiel, tata di Gabaon, tabata biba, i nòmber di su esposa tabata Maaka;"
+8,30,"i su yu hòmber primogénito tabata Abdon, despues Zur, Kis, Baal, Nadab,"
+8,31,"Gedor, Ahio i Zeker."
+8,32,"I Miklot a engendrá Simea. I nan tambe tabata biba banda di nan famia na Jerusalèm, huntu ku nan otro rumannan."
+8,33,"I Ner a engendrá Kis, i Kis a engendrá Saul, i Saul a engendrá Jonatan, Malkisúa, Abinadab i Es-baal."
+8,34,"I e yu hòmber di Jonatan tabata Merib-baal, i Merib-baal a engendrá Mikaia."
+8,35,"I e yu hòmbernan di Mikaia tabata Piton, Melek, Tarea i Akaz."
+8,36,"I Akaz a engendrá Joada, i Joada a engendrá Alemet, Azmavet i Zimri; i Zimri a engendrá Mosa."
+8,37,"Mosa a engendrá Bina; Rafa tabata su yu hòmber; Rafa su yu hòmber tabata Elasa; Elasa su yu hòmber tabata Azel."
+8,38,"I Azel tabatin seis yu hòmber, i esakinan tabata nan nòmber: Azrikam, Bokru, Ismael, Searias, Obadias i Hanan. Tur esakinan tabata e yu hòmbernan di Azel."
+8,39,"I e yu hòmbernan di su ruman hòmber Esek tabata: Ulam, su primogénito, Jeús, e di dos, i Elifelet, e di tres."
+8,40,"I e yu hòmbernan di Ulam tabata hòmbernan poderoso i balente, tiradónan di flecha, i nan tabatin hopi yu hòmber i nietu--150 na tur. Tur esakinan tabata pertenesé na e yu hòmbernan di Benjamin."
+9,1,"Asina henter Israel tabata registrá segun genealogia; i mira, nan ta pará skirbí den e Buki di Reinan di Israel. Poblashon di Jerusalèm i Juda a wòrdu hibá den eksilio na Babilonia pa motibu di nan infieldat."
+9,2,"Awor e promé habitantenan ku a stablesé nan mes den nan propiedatnan den nan statnan tabata Israel, e saserdotenan, e levitanan i e sirbidónan di tèmpel."
+9,3,"I algun di e yu hòmbernan di Juda, di e yu hòmbernan di Benjamin, i di e yu hòmbernan di Efrain i Manasés tabata biba na Jerusalèm:"
+9,4,"Utai, yu hòmber di Amiud, yu hòmber di Omri, yu hòmber di Imri, yu hòmber di Bani, for di e yu hòmbernan di Fares, yu hòmber di Juda."
+9,5,"I for di e silonitanan: Asaias, e primogénito, i su yu hòmbernan."
+9,6,"I for di e yu hòmbernan di Zera: Jeuel i nan rumannan, 690."
+9,7,"I for di e yu hòmbernan di Benjamin: Sallu, yu hòmber di Mesulam, yu hòmber di Hodavias, yu hòmber di Hasenúa,"
+9,8,"i Ibneias, yu hòmber di Jeroham, i Ela, yu hòmber di Uzi, yu hòmber di Mikri, i Mesulam, yu hòmber di Sefatias, yu hòmber di Reuel, yu hòmber di Ibnias;"
+9,9,"i nan rumannan segun nan generashonnan, 956. Tur esakinan tabata kabesnan di e kasnan di nan tatanan, segun e kasnan di nan tatanan."
+9,10,"I for di e saserdotenan: Jedaias, Joiarib, Jakin,"
+9,11,"i Azarias, yu hòmber di Hilkias, yu hòmber di Mesulam, yu hòmber di Sadok, yu hòmber di Meraiot, yu hòmber di Ahitob, ofisial prinsipal di e kas di Dios;"
+9,12,"i Adaia, yu hòmber di Jeroham, yu hòmber di Pasur, yu hòmber di Malkias, i Maasai, yu hòmber di Adiel, yu hòmber di Jazera, yu hòmber di Mesulam, yu hòmber di Mesilemit, yu hòmber di Imer;"
+9,13,"i nan rumannan, kabesnan di e kasnan di nan tatanan, 1.760 hòmber masha kapas pa e trabou di sirbishi di e kas di Dios."
+9,14,"I di e levitanan: Semaias, yu hòmber di Hasub, yu hòmber di Azrikam, yu hòmber di Hasabias, di e yu hòmbernan di Merari;"
+9,15,"i Bakbakar, Heres, Galal i Matanias, yu hòmber di Mikaia, yu hòmber di Zikri, yu hòmber di Asaf,"
+9,16,"i Obadias, yu hòmber di Semaias, yu hòmber di Galal, yu hòmber di Jedutun, i Berekias yu hòmber di Asa, yu hòmber di Elkana, kende tabata biba den e pueblitonan di e netofatitanan."
+9,17,"Awor e wardadónan-di-porta: Salum, Akub, Talmon i Ahiman i nan rumannan (Salum e lider,"
+9,18,"kende te awor ta stashoná na e porta di rei, parti pariba). Esakinan tabata e wardadónan-di-porta na e kampamentu di e yu hòmbernan di Leví."
+9,19,"Salum, yu hòmber di Koré, yu hòmber di Ebiasaf, yu hòmber di Koré i su rumannan, di e kas di su tata, e koreitanan, tabata enkargá ku e trabou di sirbishi, wardadónan di e drèmpelnan di e tènt; i nan tatanan tabata enkargá ku e kampamentu di SEÑOR, wardadónan di e entrada."
+9,20,"I Finees, yu hòmber di Eleazar, antes tabata gobernante riba nan, i SEÑOR tabata kuné."
+9,21,"Zakarias, yu hòmber di Meselemias, tabata wardadó-di-porta na e entrada di e tènt di reunion."
+9,22,"Tur esakinan, kendenan a wòrdu skohí pa ta wardadó-di-porta na e drèmpelnan, tabata 212. Esakinan tabata registrá segun genealogia, den nan pueblitonan, kendenan David i Samuel, e miradó, a nombra den nan puesto di konfiansa."
+9,23,"Asina nan i nan yu hòmbernan tabatin enkargo di e portanan di e kas di SEÑOR, esta, e kas di e tènt, komo guardianan."
+9,24,"E wardadónan-di-porta tabata na e kuater bandanan: pariba, pabou, panòrt i pasùit."
+9,25,"I di bes en kuando nan rumannan den nan pueblitonan mester a bin keda serka nan pa shete dia,"
+9,26,"pasobra e kuater wardadónan-di-porta prinsipal ku tabata levita, tabatin un puesto di konfiansa, i tabatin enkargo di e kambernan i di e lugánan-di-warda-tesoro den e kas di Dios."
+9,27,"I nan tabata pasa nochi rònt di e kas di Dios, pasobra e warda tabata na nan enkargo; i nan tabata enkargá pa habrié tur mainta."
+9,28,"Awor algun di nan tabatin enkargo di e artíkulonan-di-uzo di sirbishi, pasobra nan tabata konta nan ora nan hiba nan paden i ora nan trese nan pafó."
+9,29,"Tambe algun di nan tabatin responsabilidat pa e ophetonan en general i pa tur e artíkulonan-di-uzo di e santuario i pa e hariña fini, e biña, e zeta, e sensia i e spesereinan."
+9,30,"I algun di e yu hòmbernan di e saserdotenan tabata meskla e spesereinan."
+9,31,"I Matitias, un di e levitanan, kende tabata e primogénito di Salum e koreita, tabatin responsabilidat pa e kosnan ku tabata wòrdu hasá den panchi."
+9,32,"I algun di nan rumannan di e yu hòmbernan di e koatitanan tabatin enkargo di e pan di proposishon pa prepar'é tur dia di sabat."
+9,33,"Awor esakinan ta e kantadónan, kabesnan di e kasnan di e tatanan di e levitanan, kendenan tabata biba den e kambernan di e tèmpel, liber di otro sirbishi; pasobra di dia i anochi nan tabata okupá ku nan trabou."
+9,34,"Esakinan tabata kabesnan di e kasnan di e tatanan di e levitanan, segun nan generashonnan, hòmbernan lider, ku tabata biba na Jerusalèm."
+9,35,"I Jehiel, tata di Gabaon, tabata biba na Gabaon, i nòmber di su esposa tabata Maaka,"
+9,36,"i su yu hòmber primogénito tabata Abdon, despues Zur, Kis, Baal, Ner, Nadab,"
+9,37,"Gedor, Ahio, Zakarias i Miklot."
+9,38,"I Miklot a engendrá Simeam. I nan tambe tabata biba serka nan rumannan na Jerusalèm, enfrente di nan otro rumannan."
+9,39,"I Ner a engendrá Kis, i Kis a engendrá Saul, i Saul a engendrá Jonatan, Malkisúa, Abinadab i Es-baal."
+9,40,"I e yu hòmber di Jonatan tabata Merib-baal; i Merib-baal a engendrá Mikaia."
+9,41,"I e yu hòmbernan di Mikaia tabata Piton, Melek, Tarea i Akaz."
+9,42,"I Akaz a engendrá Jara, i Jara a engendrá Alemet, Azmavet i Zimri; i Zimri a engendrá Mosa,"
+9,43,"i Mosa a engendrá Bina i su yu hòmber Refaias; Refaias su yu hòmber, Elasa; Elasa su yu hòmber, Azel."
+9,44,"I Azel tabatin seis yu hòmber, kende nan nòmber ta: Azrikam, Bokru, Ismael, Searias, Obadias i Hanan. Esakinan tabata e yu hòmbernan di Azel."
+10,1,"Awor e filisteonan tabata bringa kontra Israel; i e hòmbernan di Israel a hui dilanti di e filisteonan i a wòrdu matá riba Seru Gilboa."
+10,2,"I e filisteonan a pèrsiguí Saul i su yu hòmbernan di serka, i e filisteonan a mata Jonatan, Abinadab i Malkisúa, e yu hòmbernan di Saul."
+10,3,"I e bataya a bira pisá kontra Saul, i e tiradónan di flecha a alkans'é; i el a wòrdu heridá dor di e tiradónan di flecha."
+10,4,"E ora ei Saul a bisa su kargadó di arma: \"Saka bo spada i traspasámi kuné, pa e hendenan insirkumsidá aki no bin hasi abuso di mi.\" Ma su kargadó di arma no tabata kier, pasobra e tabatin masha miedu. Pesei Saul a kohe su spada i a tira su kurpa riba djé."
+10,5,"I ora su kargadó di arma a mira ku Saul tabata morto, e tambe a tira su kurpa riba su spada i a muri."
+10,6,"Asina Saul a muri huntu ku su tres yu hòmbernan, i henter su kas a muri huntu."
+10,7,"Ora tur e hòmbernan di Israel ku tabata den e vaye a mira ku nan a hui, i ku Saul i su yu hòmbernan tabata morto, nan a bandoná nan statnan i a hui; i e filisteonan a bin biba den e statnan."
+10,8,"I a sosodé ku su manisé, ora ku e filisteonan a bin pa plùnder e mortonan, nan a haña Saul ku su yu hòmbernan bentá abou riba Seru Gilboa."
+10,9,"Asina nan a plùnder Saul i a kohe su kabes i su armadura i a manda mensahero rònt den e tera di e filisteonan, pa hiba e bon nobo pa nan ídolonan i pa e pueblo."
+10,10,"I nan a pone su armadura den e tèmpel di nan diosnan i a pega su kabes den e tèmpel di Dagon."
+10,11,"Ora henter Jabes-galaad a tende di tur loke e filisteonan a hasi ku Saul,"
+10,12,"tur e hòmbernan balente a lanta i a kohe e kurpa di Saul i e kurpanan di su yu hòmbernan bai ku nan, i a trese nan na Jabes i a dera nan wesunan bou di e palu di eik na Jabes i a yuna shete dia."
+10,13,"Asina Saul a muri pa su piká ku el a kometé kontra SEÑOR, pa motibu di e palabra di SEÑOR ku e no a warda; i tambe pasobra el a buska konseho serka un montadó i a konsultá kuné,"
+10,14,"i no a konsultá ku SEÑOR. Pesei El a mat'é i a pasa e reino pa David, yu hòmber di Isaí."
+11,1,"E ora ei henter Israel a reuní serka David na Hebròn i a bisa: \"Mira, nos ta bo wesu i bo karni."
+11,2,"Den tempunan pasá, tempu ku Saul tabata rei, abo tabata esun ku tabata guia Israel pa sali i pa drenta; i SEÑOR bo Dios a bisabo: 'Abo lo pastoriá Mi pueblo Israel, i abo lo ta prens riba Mi pueblo Israel.'\""
+11,3,"Asina tur e ansianonan di Israel a bin serka rei na Hebròn, i David a sera un aliansa ku nan na Hebròn dilanti di SEÑOR; i nan a ungi David komo rei riba Israel, konforme e palabra di SEÑOR pa medio di Samuel."
+11,4,"E ora ei David i henter Israel a bai Jerusalèm (esta, Jebus); i e jebuseonan, habitantenan di e tera, tabata ayanan."
+11,5,"I e habitantenan di Jebus a bisa David: \"Bo no ta drenta akinan.\" Sinembargo, David a kapturá e lugá fortifiká di Sion (esta, e stat di David)."
+11,6,"Awor David a bisa: \"Esun ku mata un jebuseo promé ta bira hefe i komandante.\" I Joab, yu hòmber di Sarvia, a subi bai promé; asina el a bira hefe."
+11,7,"I David tabata biba den e lugá fortifiká; pesei esaki tabata wòrdu yamá stat di David."
+11,8,"I el a fortifiká e stat tur rònt, for di e sitadel te na e besindario tur rònt; i Joab a drecha restu di e stat."
+11,9,"I David a bira mas i mas poderoso, pasobra e SEÑOR di ehérsitonan tabata kuné."
+11,10,"Awor esakinan ta e kabesantenan di e hòmbernan poderoso ku David tabatin, kendenan tabata sosten'é fuertemente den su reino, huntu ku henter Israel, pa hasié rei, konforme e palabra di SEÑOR tokante di Israel."
+11,11,"I esaki ta e lista di e hòmbernan poderoso ku David tabatin: Jasobeam, yu hòmber di un hakmonita, hefe di e trintanan; el a hisa su lansa kontra tres shen ku el a mata den un solo biaha."
+11,12,"I despues di djé a sigui Eleazar, yu hòmber di Dodo e ahohita, kende tabata un di e tres hòmbernan poderoso."
+11,13,"E tabata huntu ku David na Pasdamim tempu ku e filisteonan a reuní ayanan pa bataya, i ayanan tabatin un pida tereno yen di puspas; i e pueblo a hui dilanti di e filisteonan."
+11,14,"I nan a para firme meimei di e pida tereno, i a defendé esaki i a mata e filisteonan; i SEÑOR a salba nan pa medio di un viktoria grandi."
+11,15,"Awor tres di e trinta hefenan a baha bai na e baranka serka David, den e kueba di Adulam, mientras ku e ehérsito di e filisteonan tabata kampa den e vaye di Refaim."
+11,16,"I e tempu ei David tabata den e lugá fortifiká, mientras ku e guarnishon di e filisteonan e tempu ei tabata na Bètlehèm."
+11,17,"I David a haña asina un deseo pa bebe awa i a bisa: \"Mara un hende por a dunami awa pa bebe for di e pos di Bètlehèm, ku ta keda pegá ku e porta di stat!\""
+11,18,"Asina e tresnan a kibra pasa dor di e kampamentu di e filisteonan i a saka awa for di e pos di Bètlehèm, ku tabata keda pegá ku e porta di stat, i a koh'é hiba pa David; sinembargo, David no kier a beb'é, ma a dram'é pa SEÑOR;"
+11,19,"i el a bisa: \"Leu sea di mi, O mi Dios, di hasi e kos aki. Lo mi bebe e sanger di e hòmbernan aki ku a riska nan bida pa bai? Pasobra nan a riska nan bida pa tres'é.\" Pesei e no kier a beb'é. E kosnan aki e tres hòmbernan poderoso a hasi."
+11,20,"I pa loke ta Abisai, ruman hòmber di Joab, e tabata hefe di e trintanan, i el a zwai su lansa kontra tres shen i a mata nan; i el a haña fama meskos ku e tresnan."
+11,21,"Di e tresnan den e di dos rango e tabata esun mas onrá, i a bira nan komandante; sinembargo, e no a igualá e promé tresnan."
+11,22,"Bènaia, yu hòmber di Joiada, yu di un hòmber balente di Kabseel, poderoso den echonan, a mata e dos yu hòmbernan di Ariel di Moab. Tambe el a baha bai den un buraku riba un dia ku sneu tabata kai i a mata un leon."
+11,23,"I el a mata un egipsio, un hòmber di gran estatura, sinku kodo haltu. Awor e egipsio tabatin un lansa den su man manera balki di un wefdó-di-tela, ma el a baha bai riba djé ku un klòp, i a ranka e lansa for di e egipsio su man i a mat'é ku su mes lansa."
+11,24,"E kosnan aki Bènaia, yu hòmber di Joiada, a hasi, i el a haña fama meskos ku e tres hòmbernan poderoso."
+11,25,"Mira, el a wòrdu onrá entre e trintanan, ma e no a igualá e tresnan; i David a nombr'é riba su guardia."
+11,26,"Awor e hòmbernan poderoso di e ehérsitonan tabata: Asael, ruman hòmber di Joab, Elhanan, yu hòmber di Dodo di Bètlehèm,"
+11,27,"Samot e harodita, Heles e pelonita,"
+11,28,"Ira, yu hòmber di Ikes e tekoita, Abiezer e anatotita,"
+11,29,"Sibekai e husatita, Ilai e ahohita,"
+11,30,"Maharai e netofatita, Heled, yu hòmber di Baana e netofatita,"
+11,31,"Itai, yu hòmber di Ribai di Gabaa, ku ta pertenesé na e yu hòmbernan di Benjamin, Bènaia e piratonita,"
+11,32,"Hurai di e roinan di Gaas, Abiel e arbatita,"
+11,33,"Azmavet e baharumita, Eliaba e saalbonita,"
+11,34,"e yu hòmbernan di Hasem e gizonita, Jonatan, yu hòmber di Sage e hararita,"
+11,35,"Ahiam, yu hòmber di Sakar e hararita, Elifal, yu hòmber di Ur,"
+11,36,"Hefer e mekeratita, Ahias e pelonita,"
+11,37,"Hezro e karmelita, Naarai, yu hòmber di Ezbai,"
+11,38,"Joel, ruman hòmber di Natan, Mibhar, yu hòmber di Hagrai,"
+11,39,"Selek e amonita, Naharai e berotita, kargadó di arma di Joab, yu hòmber di Sarvia,"
+11,40,"Ira e itrita, Gareb e itrita,"
+11,41,"Urias e heteo, Zabad, yu hòmber di Ahlai,"
+11,42,"Adina, yu hòmber di Siza e rubenita, un hefe di e rubenitanan, i trinta huntu kuné,"
+11,43,"Hanan, yu hòmber di Maaka i Josafat e mitnita,"
+11,44,"Uzias e asteratita, Sama i Jehiel, yu hòmbernan di Hotam e aroerita,"
+11,45,"Jediael, yu hòmber di Simri, i su ruman hòmber Joha e tizita,"
+11,46,"Eliel e mahavita i Jerebai i Josavia, yu hòmbernan di Elnaam, i Itma e moabita,"
+11,47,"Eliel, Obed i Jaasiel e mesobaita."
+12,1,"Awor esakinan ta esnan ku a bin serka David na Ziklag, mientras ku ainda su moveshonnan tabata limitá pa motibu di Saul, yu hòmber di Kis; i nan tabata entre e hòmbernan poderoso ku a yud'é den guera."
+12,2,"Nan tabata armá ku bog i tabata uza tantu man drechi komo man robes pa tira piedra ku slenger i pa tira flecha ku bog; nan tabata famia di Saul for di Benjamin."
+12,3,"E hefe tabata Ahiezer, despues Joas, yu hòmbernan di Sema e gabaatita; i Jeziel ku Pelet, yu hòmbernan di Azmavet, i Beraka ku Jehú e anatotita,"
+12,4,"i Ismaias e gabaonita, un hòmber poderoso entre e trintanan i riba e trintanan. Despues Jeremias, Jahaziel, Johanan, Jozabad e gederatita,"
+12,5,"Eluzai, Jerimot, Bealias, Semarias, Sefatias e harufita,"
+12,6,"Elkana, Isias, Azareel, Joezer, Jasobeam, e koreitanan,"
+12,7,"i Joela ku Zebadias, yu hòmbernan di Jeroham di Gedor."
+12,8,"I for di e gaditanan a bin serka David na su lugá fortifiká den desierto, hòmbernan poderoso i balente, hòmbernan entrená pa guera, ku por a manehá eskudo i lansa, i kende nan kara tabata manera kara di leon, i nan tabata lihé manera gasèl riba e serunan."
+12,9,"Ezer tabata esun promé, Obadias, e di dos, Eliab, e di tres,"
+12,10,"Mismana, e di kuater, Jeremias, e di sinku,"
+12,11,"Atai, e di seis, Eliel, e di shete,"
+12,12,"Johanan, e di ocho, Elzabad, e di nuebe,"
+12,13,"Jeremias, e di dies, Makbanai, e di diesun."
+12,14,"Di e yu hòmbernan di Gad esakinan tabata kapitan di ehérsito; esun di mas chikitu tabata igual na shen i esun di mas grandi na mil."
+12,15,"Esakinan ta esnan ku a krusa Jordan den e promé luna, tempu ku esaki tabata subi pasa tur su oriyanan; i nan a pone tur esnan den e vayenan hui bai den direkshon pariba i den direkshon pabou."
+12,16,"E ora ei algun di e yu hòmbernan di Benjamin i Juda a bin serka David na e lugá fortifiká."
+12,17,"I David a sali bai kontra ku nan i a kontestá nan bisando: \"Si boso ta bin na pas serka mi pa yudami, mi kurason lo ta uní ku boso; ma si ta pa traishonámi serka mi atversarionan, siendo ku no tin inikidat den mi mannan, ku e Dios di nos tatanan mira i disidí.\""
+12,18,"E ora ei e Spiritu a bin riba Amasai, kende tabata hefe di e trintanan, i el a bisa: \"Nos ta di bo, O David, i ku bo, O yu hòmber di Isaí! Pas, pas sea ku bo, i pas sea ku esun ku ta yudabo; Di bèrdat, bo Dios ta yudabo!\" E ora ei David a risibí nan i a hasi nan kapitan di e trupa."
+12,19,"For di Manasés tambe algun a pasa ofer pa David, ora ku e tabata bai bataya huntu ku e filisteonan kontra Saul. Ma nan no a yuda e filisteonan, pasobra e prensnan di e filisteonan, despues di a konsultá ku otro, a manda David bai, bisando: \"E ta kapas di pasa ofer pa su shon Saul i pone nos kabes na peliger.\""
+12,20,"Ora David a bai Ziklag, esakinan ta e hòmbernan di Manasés ku a pasa ofer p'é: Adnas, Jozabad, Jediael, Mikael, Jozabad, Eliú i Ziletai, kapitannan riba milnan ku tabata pertenesé na Manasés."
+12,21,"I nan a yuda David kontra e trupa di sakeadó, pasobra nan tur tabata hòmbernan poderoso i balente i tabata kapitannan den e ehérsito."
+12,22,"Pasobra dia tras dia tabata bin hòmbernan serka David pa yud'é, te ora tabatin un ehérsito grandi, manera e ehérsito di Dios."
+12,23,"Awor esakinan ta e kantidatnan di e divishonnan, ekipá pa bai guera, ku a bin serka David na Hebròn, pa pasa e reino di Saul p'é, konforme e palabra di SEÑOR."
+12,24,"E yu hòmbernan di Juda, ku tabata karga eskudo i lansa, tabata 6.800, ekipá pa guera."
+12,25,"Di e yu hòmbernan di Simeon, hòmbernan poderoso i balente pa bai guera, 7.100."
+12,26,"Di e yu hòmbernan di Leví, 4.600."
+12,27,"Awor Joiada tabata lider di e kas di Aaron, i huntu kuné tabatin 3.700,"
+12,28,"tambe Sadok, un hòmber hoben, poderoso i balente, ku 22 kapitan di e kas di su tata."
+12,29,"I di e yu hòmbernan di Benjamin, famia di Saul, 3.000; pasobra te awor mayoria parti di nan a keda fiel na e kas di Saul."
+12,30,"I di e yu hòmbernan di Efrain 20.800 hòmber poderoso i balente, hòmbernan famoso den e kasnan di nan tatanan."
+12,31,"I di e mitar tribu di Manasés, 18.000, ku a keda nombrá pa bin hasi David rei."
+12,32,"I di e yu hòmbernan di Isakar, hòmbernan ku tabatin komprendementu di e tempunan, ku konosementu di loke Israel mester hasi, nan hefenan tabata 200; i henter nan famia tabata bou di nan mando."
+12,33,"Di Zabulon tabatin 50.000 ku a sali bai den ehérsito, ku por a pone nan mes den òrdu di bataya, ku tur sorto di arma di guera; i nan a yuda David ku kurason dediká na djé so."
+12,34,"I di Nèftalí tabatin mil kapitan, i huntu ku nan 37.000 ku eskudo i lansa."
+12,35,"I di e danitanan, ku por a pone nan mes den òrdu di bataya, tabatin 28.600."
+12,36,"I di Aser, esnan ku a sali bai den ehérsito, ku por a pone nan mes den òrdu di bataya, 40.000."
+12,37,"I for di e otro banda di Jordan, di e rubenitanan i e gaditanan i di e mitar tribu di Manasés, tabatin 120.000 mil ku tur sorto di arma di guera pa bataya."
+12,38,"Tur esakinan, siendo hòmbernan di guera, ku por a pone nan mes den òrdu di bataya, a bin Hebròn ku kurason kompletamente dediká pa hasi David rei riba henter Israel; i tambe tur e restu di Israel tabatin e mesun pensamentu di hasi David rei."
+12,39,"I nan a keda tres dia ayanan serka David ta kome i bebe; pasobra nan famianan a prepará tur kos pa nan."
+12,40,"Ademas, esnan ku tabata biba serka di nan, te na Isakar, Zabulon i Nèftalí, tabata trese kuminda riba buriku, kamel, mula i buey, kantidatnan grandi di pan, klòmpi di figo, i klòmpi di rasenchi, biña, zeta, buey i karné. Di bèrdat tabatin goso den Israel."
+13,1,"E ora ei David a konsultá ku e kapitannan di e milnan i shennan, ku tur lider."
+13,2,"I David a bisa henter e asamblea di Israel: \"Si ta parse boso bon, i si ta boluntat di SEÑOR nos Dios, laga nos manda rospondi tur parti pa nos famianan ku ta keda na henter e tera di Israel, tambe pa e saserdotenan i levitanan ku ta huntu ku nan den nan statnan ku lugánan di yerba bèrdè, pa nan reuní ku nos;"
+13,3,"i laga nos trese e arka di nos Dios bèk serka nos, pasobra den e dianan di Saul nos no a hasi kaso di djé.\""
+13,4,"E ora ei henter e asamblea a bisa ku nan lo hasi asina, pasobra e asunto tabata korekto den bista di henter e pueblo."
+13,5,"Asina David a reuní henter Israel huntu, for di Sihor di Egipto te na e entrada di Hamat, pa trese e arka di Dios for di Kiriat-jearim."
+13,6,"I David ku henter Israel a subi bai Baala, esta, Kiriat-jearim, ku ta pertenesé na Juda, pa trese for di ayanan e arka di Dios, e SEÑOR ku ta sintá riba Su trono ariba di e kerubinnan, e arka riba kual Su nòmber ta wòrdu invoká."
+13,7,"I nan a hiba e arka di Dios riba un garoshi nobo for di e kas di Abinadab, i Uza ku Ahio tabata guia e garoshi."
+13,8,"I David ku henter Israel tabata regosihá ku tur nan forsa dilanti di Dios, ku kantika i ku salterio, arpa, tamburein, simbal i tròmpèt."
+13,9,"Ora nan a yega na e plenchi-di-bati-mainshi di Kidon, Uza a saka su man pa wanta e arka, pasobra e bueynan a trompeká."
+13,10,"I e rabia di SEÑOR a kima kontra Uza, i El a dal é mata pa motibu ku el a saka su man na e arka; i el a muri ayanan dilanti di Dios."
+13,11,"Anto David a rabia pasobra SEÑOR a dal Uza un sla asina pisá; i el a yama e lugá ei Perez-uza te dia djawe."
+13,12,"I David a haña miedu di Dios e dia ei, bisando: \"Kon mi por trese e arka di Dios serka mi?\""
+13,13,"Asina David no a hiba e arka serka djé na e stat di David, ma el a hib'é na e kas di Obed-edòm e geteo."
+13,14,"Pesei e arka di Dios a keda tres luna serka e famia di Obed-edòm, den su kas; i SEÑOR a bendishoná e famia di Obed-edòm i tur loke ku e tabatin."
+14,1,"Awor Hiram, rei di Tiro, a manda mensaheronan serka David ku palu di seda, mèslánan i karpinténan, pa traha un kas p'é."
+14,2,"I David a realisá ku SEÑOR a stables'é komo rei riba Israel, i ku su reino tabata halsá grandemente pa kousa di Su pueblo Israel."
+14,3,"E ora ei David a tuma mas esposa na Jerusalèm, i David a engendrá mas yu hòmber i mas yu muhé."
+14,4,"I esakinan ta e nòmbernan di e yunan ku a nase p'é na Jerusalèm: Samúa, Sobab, Natan, Salomon,"
+14,5,"Ibhar, Elisúa, Elpelet,"
+14,6,"Noga, Nefeg, Jafia,"
+14,7,"Elisama, Beeliada i Elifelet."
+14,8,"Ora ku e filisteonan a tende ku David a wòrdu ungí komo rei riba henter Israel, tur e filisteonan a bai buska David; i David a tende di esaki i a sali bai kontra nan."
+14,9,"Awor e filisteonan a tene un razia den e vaye di Refaim."
+14,10,"I David a konsultá ku Dios, bisando: \"Mi mester bai kontra e filisteonan? I lo Bo entregá nan den mi man?\" E ora ei SEÑOR a bis'é: \"Bai, pasobra lo Mi entregá nan den bo man.\""
+14,11,"Asina nan a yega Baal-perazim, i David a derotá nan ayanan; i David a bisa: \"Dios a kibra pasa dor di mi enemigunan pa medio di mi man, manera awa ta kibra pasa.\" Pesei nan a yama e lugá ei Baal-perazim."
+14,12,"I nan a bandoná nan diosnan ayanan; asina David a duna òrdu i nan a kima nan ku kandela."
+14,13,"I e filisteonan a bolbe tene un razia den e vaye."
+14,14,"I David a bolbe konsultá ku Dios, i Dios a bis'é: \"No subi bai nan tras; rondoná nan di patras i bin ataká nan dilanti di e palunan di balsem."
+14,15,"I lo sosodé ku ora bo tende e zonidu di marchamentu den e tòpnan di e palunan di balsem, bo mester sali bai bataya, pasobra Dios lo a sali bo dilanti pa derotá e ehérsito di e filisteonan.\""
+14,16,"I David a hasi manera Dios a orden'é, i nan a derotá e ehérsito di e filisteonan for di Gabaon te na Gezer."
+14,17,"I e fama di David a plama den tur e teranan; i SEÑOR a pone miedu pa David riba tur e nashonnan."
+15,1,"Awor David a traha kasnan pa su mes den e stat di David; i el a prepará un lugá pa e arka di Dios, i a lanta un tènt p'é."
+15,2,"E ora ei David a bisa: \"Ningun hende no mag karga e arka di Dios, sino e levitanan so; pasobra SEÑOR a skohe nan pa karga e arka di Dios i pa sirbiE pa semper.\""
+15,3,"I David a reuní henter Israel na Jerusalèm, pa trese e arka di SEÑOR na su lugá ku el a prepará p'é."
+15,4,"I David a reuní e yu hòmbernan di Aaron i e levitanan;"
+15,5,"di e yu hòmbernan di Koat, hefe Uriel i 120 di su rumannan;"
+15,6,"di e yu hòmbernan di Merari, hefe Asaias i 220 di su rumannan;"
+15,7,"di e yu hòmbernan di Gerson, hefe Joel i 130 di su rumannan;"
+15,8,"di e yu hòmbernan di Elizafan, hefe Semaias, i 200 di su rumannan;"
+15,9,"di e yu hòmbernan di Hebròn, hefe Eliel i 80 di su rumannan;"
+15,10,"di e yu hòmbernan di Uziel, hefe Aminadab i 112 di su rumannan."
+15,11,"E ora ei David a manda yama e saserdotenan Sadok i Abiatar, i e levitanan, i Uriel, Asaias, Joel, Semaias, Eliel i Aminadab,"
+15,12,"i a bisa nan: \"Boso ta e kabesnan di e kasnan di e tatanan di e levitanan; konsagrá boso mes, tantu boso komo boso rumannan, pa boso trese e arka di e SEÑOR Dios di Israel na e lugá ku mi a prepará p'é."
+15,13,"Pa motibu ku boso no a kargu'é na prinsipio, e rabia di SEÑOR nos Dios a lanta kontra nos, pasobra nos no a busk'E konforme e ordenansa.\""
+15,14,"Asina e saserdotenan i e levitanan a konsagrá nan mes pa hiba e arka di e SEÑOR Dios di Israel."
+15,15,"I e yu hòmbernan di e levitanan a karga e arka di Dios riba nan skouder, ku e baranan na djé, manera Moisés a ordená, konforme e palabra di SEÑOR."
+15,16,"E ora ei David a papia ku e hefenan di e levitanan pa nombra nan rumannan, e kantadónan, ku instrumènt di muzik, arpa, salterio, simbal ku ta zona duru, pa laga tende zonidunan di goso."
+15,17,"Asina e levitanan a nombra Heman, yu hòmber di Joel, i di su rumannan: Asaf, yu hòmber di Berekias; i di e yu hòmbernan di Merari, nan rumannan: Etan, yu hòmber di Kusaias,"
+15,18,"i huntu ku nan nan rumannan di e di dos rango: Zakarias, Bèn, Jaaziel, Semiramot, Jehiel, Uni, Eliab, Bènaia, Maaseias, Matitias, Elifelehu, Miknias, Obed-edòm i Jeiel, e wardadónan-di-porta."
+15,19,"Asina e kantadónan Heman, Asaf i Etan a keda nombrá pa toka duru riba simbal di bròns;"
+15,20,"i Zakarias, Aziel, Semiramot, Jehiel, Uni, Eliab, Maaseias i Bènaia, ku arpa gestèm na tono haltu;"
+15,21,"i Matitias, Elifelehu, Miknias, Obed-edòm, Jeiel i Azazias, pa guia ku salterio gestèm na tono abou."
+15,22,"I Kenanias, hefe di e levitanan, tabatin enkargo di e kantamentu; e tabata duna instrukshon den kantamentu, pasobra e tabatin abilidat."
+15,23,"Anto Berekias i Elkana tabata wardadó-di-porta pa e arka."
+15,24,"I e saserdotenan Sebanias, Josafat, Natanael, Amasai, Zakarias, Bènaia i Eliezer tabata supla tròmpèt dilanti di e arka di Dios. Obed-edòm i Jehias tambe tabata wardadó-di-porta pa e arka."
+15,25,"Asina David, huntu ku e ansianonan di Israel i e kapitannan riba milnan, a bai pa trese e arka di e aliansa di SEÑOR for di e kas di Obed-edòm, ku goso."
+15,26,"I a sosodé ku, pasobra Dios tabata yuda e levitanan ku tabata karga e arka di e aliansa di SEÑOR, nan a sakrifiká shete bishé machu i shete karné chubatu."
+15,27,"Awor David tabatin un mantel di lino fini bistí, meskos ku tur e levitanan ku tabata karga e arka, i e kantadónan i Kenanias, e lider di kantamentu, huntu ku e kantadónan. David tambe tabatin un efòd di lino bistí."
+15,28,"Asina henter Israel a trese e arka di e aliansa di SEÑOR ku gritu i ku zonidu di kachu, ku tròmpèt, ku zonidu duru di simbal, ku arpa i salterio."
+15,29,"I a sosodé ku ora ku e arka di e aliansa di SEÑOR a yega den e stat di David, Mikal, yu muhé di Saul, tabata wak for di bentana i a mira rei David ta bula i ta hasi kontentu, i el a despresi'é den su kurason."
+16,1,"I nan a trese e arka di Dios paden i a pon'é den e tènt ku David a lanta p'é; i nan a ofresé ofrendanan kimá i ofrendanan di pas dilanti di Dios."
+16,2,"Ora David a kaba di ofresé e ofrenda kimá i e ofrendanan di pas, el a bendishoná e pueblo den e nòmber di SEÑOR."
+16,3,"I el a parti pa tur hende di Israel, tantu hòmber komo muhé, pa tur, un pan i un porshon di karni i un pan di rasenchi."
+16,4,"I el a nombra algun di e levitanan pa sirbi dilanti di e arka di SEÑOR, pa selebrá i pa gradisí i pa alabá e SEÑOR Dios di Israel:"
+16,5,"Asaf, e hefe, i Zakarias, esun ku tabata siguié; despues Jeiel, Semiramot, Jehiel, Matitias, Eliab, Bènaia, Obed-edòm i Jeiel, ku instrumèntnan di muzik, arpa i salterio; tambe Asaf tabata toka simbal ku ta zona duru,"
+16,6,"i e saserdotenan Bènaia i Jahaziel tabata supla tròmpèt kontinuamente dilanti di e arka di e aliansa di Dios."
+16,7,"I riba e dia ei David, pa di promé biaha, a nombra Asaf i su rumannan, pa duna gradisimentu na SEÑOR."
+16,8,"O duna gradisimentu na SEÑOR, invoká Su nòmber; hasi Su echonan konosí den e pueblonan."
+16,9,"Kanta na djE, kanta alabansa na djE; papia di tur Su maraviyanan."
+16,10,"Gloria den Su nòmber santu; laga kurason di esnan ku ta buska SEÑOR ta kontentu."
+16,11,"Buska SEÑOR i Su fortalesa; buska Su kara kontinuamente."
+16,12,"Kòrda Su echonan maraviyoso ku El a hasi, Su señalnan i e huisionan di Su boka,"
+16,13,"O simia di Israel, Su sirbidó, yunan di Jakòb, Su skohínan!"
+16,14,"E ta SEÑOR nos Dios; Su huisionan ta den henter tera."
+16,15,"Kòrda Su aliansa pa semper, e palabra ku El a ordená na mil generashon,"
+16,16,"e aliansa ku El a sera ku Abraham, i Su huramentu na Isaak."
+16,17,"Tambe El a konfirmá esaki na Jakòb komo un statuto, na Israel komo un aliansa etèrno,"
+16,18,"bisando: \"Na bo lo Mi duna e tera di Kanaan, komo e porshon di bo erensia.\""
+16,19,"Tempu ku nan tabata poko hende ainda, masha poko mes, i stranhero den djé,"
+16,20,"i nan tabata dwal di nashon pa nashon, i di un reino pa un otro pueblo,"
+16,21,"i E no a pèrmití ningun hende oprimí nan, i El a reprendé reinan pa nan motibu, bisando:"
+16,22,"\"No mishi ku Mi ungínan, i no hasi Mi profetanan ningun daño.\""
+16,23,"Kanta na SEÑOR, henter tera; proklamá bon nobo di Su salbashon di dia pa dia."
+16,24,"Konta di Su gloria meimei di e nashonnan, Su obranan maraviyoso meimei di tur e pueblonan."
+16,25,"Pasobra SEÑOR ta grandi i digno di supremo alabansa; tambe mester tin temor di djE mas ku di tur dios."
+16,26,"Pasobra tur e diosnan di e pueblonan ta ídolo, ma SEÑOR a traha e shelunan."
+16,27,"Splendor i mahestat ta Su dilanti, fortalesa i goso ta den Su lugá."
+16,28,"Atribuí na SEÑOR, O famianan di e pueblonan, atribuí na SEÑOR gloria i poder,"
+16,29,"atribuí na SEÑOR e gloria debí na Su nòmber; trese un ofrenda i bin Su dilanti; adorá SEÑOR bistí ku santidat."
+16,30,"Tembla Su dilanti, henter tera; di bèrdat, mundu ta firmemente stablesí, e lo no wòrdu moví."
+16,31,"Laga e shelunan alegrá, i laga tera regosihá, i laga nan bisa entre e nashonnan: \"SEÑOR ta reina.\""
+16,32,"Laga laman ronka, i tur loke e ta kontené; laga kunuku regosihá, i tur loke tin den djé."
+16,33,"E ora ei e palunan di mondi-será lo kanta di goso dilanti di SEÑOR, pasobra E ta bin pa huzga tera."
+16,34,"O duna gradisimentu na SEÑOR, pasobra E ta bon; pasobra Su miserikòrdia ta pa semper."
+16,35,"I bisa: \"Salba nos, O Dios di nos salbashon, i rekohé nos i libra nos for di e nashonnan, pa duna gradisimentu na Bo nòmber santu i gloria den Bo alabansa.\""
+16,36,"Bendishoná sea SEÑOR, e Dios di Israel, for di etèrnidat te na etèrnidat. I henter e pueblo a bisa: \"Amèn,\" i a alabá SEÑOR."
+16,37,"Asina el a laga Asaf i su rumannan ayanan dilanti di e arka di e aliansa di SEÑOR, pa sirbi dilanti di e arka kontinuamente, manera e trabou di kada dia tabata eksigí;"
+16,38,"i Obed-edòm ku su sesent'i ocho rumannan; tambe Obed-edòm, yu hòmber di Jedutun, i Hosa, komo wardadónan-di-porta."
+16,39,"I el a laga saserdote Sadok i su rumannan, e saserdotenan, dilanti di e tabernakel di SEÑOR na e lugá haltu ku tabata keda na Gabaon,"
+16,40,"pa kontinuamente, mainta i anochi, ofresé ofrendanan kimá na SEÑOR riba e altar di ofrenda kimá, konforme tur loke tin pará skirbí den e lei di SEÑOR ku El a ordená Israel."
+16,41,"I huntu ku nan tabata Heman, Jedutun i e otronan ku a wòrdu skohí, kendenan a keda nombrá pa duna gradisimentu na SEÑOR, pasobra Su miserikòrdia ta pa semper."
+16,42,"I huntu ku nan tabata Heman i Jedutun, ku tròmpèt i simbal pa esnan ku mester toka duru, i ku instrumèntnan pa e kantikanan di Dios, i e yu hòmbernan di Jedutun pa tene warda na e porta di stat."
+16,43,"E ora ei henter e pueblo a bai, kada un pa su kas; i David a bolbe pa bendishoná e hendenan di su kas."
+17,1,"I a sosodé ku ora David a bai biba den su kas, David a bisa profeta Natan: \"Mira, ami ta biba den un kas di palu di seda, ma e arka di e aliansa di SEÑOR ta bou di kortina.\""
+17,2,"E ora ei Natan a bisa David: \"Hasi tur loke ta den bo kurason, pasobra Dios ta ku bo.\""
+17,3,"I a sosodé ku e mesun anochi ei e palabra di Dios a yega na Natan, bisando:"
+17,4,"\"Bai bisa Mi sirbidó David: 'Asina SEÑOR ta bisa: \"Abo lo no traha un kas pa Mi biba aden;"
+17,5,"pasobra Mi no a biba den un kas for di dia ku Mi a trese Israel aki te dia djawe, ma Mi a bai di un tènt pa otro i di un lugá-di-biba pa otro."
+17,6,"Na tur lugá ku Mi a kana ku henter Israel, Mi a yega di papia un palabra ku un di e huesnan di Israel, ku Mi a ordená pa pastoriá Mi pueblo, bisando: 'Pakiko boso no a traha un kas di palu di seda pa Mi?'\"'"
+17,7,"\"Pesei anto, asina bo mester bisa Mi sirbidó David: 'Asina e SEÑOR di ehérsitonan ta bisa: \"Mi a sakabo for di den un lugá di yerba bèrdè, for di tras di e karnénan, pa bo ta lider riba Mi pueblo Israel."
+17,8,"I Mi tabata ku bo unda ku bo a bai i a kòrta tur bo enemigunan kita for di bo dilanti; i lo Mi dunabo un nòmber manera nòmber di e grandinan ku tin riba tera."
+17,9,"I lo Mi apuntá un lugá pa Mi pueblo Israel, i planta nan, pa nan biba den nan mes lugá i no wòrdu moví mas; ni e malbadonan lo no afligí nan mas manera antes,"
+17,10,"manera tempu ku Mi a nombra huesnan riba Mi pueblo Israel. I lo Mi hasi tur bo enemigunan someté. \"Ademas, Mi ta bisabo ku SEÑOR lo traha un kas pa bo."
+17,11,"I lo sosodé ku ora bo dianan keda kumplí ku bo mester bai serka bo tatanan, lo Mi lanta un di bo desendientenan despues di bo ku lo ta un di bo yu hòmbernan; i lo Mi stablesé su reino."
+17,12,"E lo traha un kas pa Mi, i lo Mi stablesé su trono pa semper."
+17,13,"Ami lo ta su tata, i e lo ta Mi yu hòmber; i lo Mi no kita Mi miserikòrdia for di djé, manera Mi a kit'é for di esun ku tabata promé ku bo."
+17,14,"Ma lo Mi stables'é den Mi kas i den Mi reino pa semper, i su trono lo ta stablesí pa semper.\"'\""
+17,15,"Konforme tur e palabranan aki i konforme henter e vishon aki, asina Natan a papia ku David."
+17,16,"E ora ei rei David a bai paden i a sinta dilanti di SEÑOR i a bisa: \"Ta ken mi ta, O SEÑOR Dios, i ta kiko mi kas ta, ku Bo a tresemi te akinan?"
+17,17,"I esaki tabata un kos chikitu den Bo bista, O Dios; ma Bo a papia di e kas di Bo sirbidó enkuanto un futuro lehano, i a konsiderámi komo un hòmber di kategoria haltu, O SEÑOR Dios."
+17,18,"\"Kiko mas David por bisaBo tokante di e onor ku a wòrdu duná na Bo sirbidó? Pasobra Bo konosé Bo sirbidó."
+17,19,"O SEÑOR, pa motibu di Bo sirbidó, i konforme Bo mes kurason, Bo a hasi tur e grandesa aki, pa hasi tur e kosnan grandi aki konosí."
+17,20,"\"O SEÑOR, no tin ningun manera Bo, ni no tin ningun Dios fuera di Bo, konforme tur loke nos a tende ku nos orea."
+17,21,"I kual nashon na tera ta manera Bo pueblo Israel, ku Dios a bai redimí pa Su mes komo un pueblo, pa hasi Bo mes un nòmber dor di kosnan grandi i teribel, dor di kore ku nashonnan for di dilanti di Bo pueblo, ku Bo a redimí for di Egipto?"
+17,22,"Pasobra Bo a hasi Bo pueblo Israel Bo mes pueblo pa semper, i Abo, O SEÑOR, a bira nan Dios."
+17,23,"\"I awor, O SEÑOR, laga e palabra ku Bo a papia tokante di Bo sirbidó i tokante di su kas keda stablesí pa semper, i hasi manera Bo a papia."
+17,24,"I laga Bo nòmber keda stablesí i engrandesí pa semper, bisando: 'E SEÑOR di ehérsitonan ta e Dios di Israel, sí, un Dios pa Israel; i e kas di Bo sirbidó David ta stablesí Bo dilanti.'"
+17,25,"\"Pasobra Abo, O mi Dios, a revelá na Bo sirbidó ku lo Bo traha un kas p'é; pesei Bo sirbidó a haña kurashi pa hasi orashon Bo dilanti."
+17,26,"I awor, O SEÑOR, Abo ta Dios, i Bo a primintí Bo sirbidó e kos bon aki."
+17,27,"I awor a agradáBo di bendishoná e kas di Bo sirbidó, pa e permanesé pa semper Bo dilanti; pasobra Abo, O SEÑOR, a bendishoná, i e lo ta bendishoná pa semper.\""
+18,1,"Awor despues di esaki a sosodé ku David a derotá e filisteonan, a hasi nan someté i a kohe Gat i su statnan for di man di e filisteonan."
+18,2,"I el a derotá Moab, i e moabitanan a bira sirbidó di David, i tabata paga tributo."
+18,3,"Tambe David a derotá Hadadezer, rei di Soba, te na Hamat, ora ku el a bai pa stablesé su poder na Riu Eufrates."
+18,4,"I David a kita for di djé mil garoshi, shete mil koredó di kabai i binti mil sòldá-na-pia; i David a kòrta kabuya-di-pia di tur e kabainan di garoshi, ma a reservá sufisiente di nan pa shen garoshi."
+18,5,"Ora ku e sirionan di Damasko a bin yuda Hadadezer, rei di Soba, David a mata bint'i dos mil hòmber di e sirionan."
+18,6,"E ora ei David a pone guarnishonnan na Siria di Damasko; i e sirionan a bira sirbidó di David, i tabata paga tributo. I SEÑOR tabata yuda David unda ku e tabata bai."
+18,7,"I David a kohe e eskudonan di oro ku e sirbidónan di Hadadezer tabata karga, i a hiba nan Jerusalèm."
+18,8,"Tambe for di Tibhat i for di Kun, statnan di Hadadezer, David a kohe un kantidat masha grandi di bròns, ku kual Salomon a traha e laman di bròns, e pilarnan i e artíkulonan-di-uzo di bròns."
+18,9,"Awor ora Tou, rei di Hamat, a tende ku David a derotá henter e ehérsito di Hadadezer, rei di Soba,"
+18,10,"el a manda su yu hòmber Hadoram serka rei David, pa salud'é i pa bendishon'é, pasobra el a bringa kontra Hadadezer i a derot'é; pasobra Hadadezer tabata na guera ku Tou. I Hadoram a trese tur sorto di artíkulo di oro, di plata i di bròns."
+18,11,"Esakinan tambe rei David a dediká na SEÑOR, huntu ku e plata i e oro ku el a kohe bai kuné for di tur e nashonnan: for di Edòm, Moab, e yu hòmbernan di Amon, e filisteonan i Amalek."
+18,12,"Ademas Abisai, yu hòmber di Sarvia, a derotá diesocho mil edomita den e Vaye di Salu."
+18,13,"I el a pone guarnishonnan na Edòm, i tur e edomitanan a bira sirbidó di David. I SEÑOR tabata yuda David unda ku e tabata bai."
+18,14,"Asina David tabata reina riba henter Israel; i e tabata atministrá huisio i hustisia pa henter su pueblo."
+18,15,"I Joab, yu hòmber di Sarvia, tabatin enkargo di e ehérsito i Josafat, yu hòmber di Ahilud, tabata registradó;"
+18,16,"i Sadok, yu hòmber di Ahitob, i Abimelek, yu hòmber di Abiatar, tabata saserdote, i Savsa tabata sekretario."
+18,17,"I Bènaia, yu hòmber di Joiada, tabatin enkargo di e kereteonan i e peleteonan; i e yu hòmbernan di David tabata hefe na rei su lado."
+19,1,"Awor a sosodé ku despues di esaki, Nahas, rei di e yu hòmbernan di Amon, a muri, i su yu hòmber a bira rei na su lugá."
+19,2,"Anto David a bisa: \"Lo mi mustra kariño na Hanun, yu hòmber di Nahas, pasobra su tata a mustrami kariño.\" Asina David a manda mensaheronan pa konsol'é pa motibu di morto di su tata. I David su sirbidónan a yega tera di e yu hòmbernan di Amon, serka Hanun, pa konsol'é."
+19,3,"Ma e prensnan di e yu hòmbernan di Amon a bisa Hanun: \"Bo ta kere ku ta onra David ta onra bo tata ku el a manda konsoladó serka bo? Su sirbidónan no a bin serka bo pa ristra, pa derotá i pa spioná e tera?\""
+19,4,"Asina Hanun a kohe David su sirbidónan, a feita nan i a kòrta nan paña na mitar kit'afó pareu ku nan hep, i a manda nan bai."
+19,5,"E ora ei algun hende a bai konta David tokante di e hòmbernan. I el a manda hende bai topa ku nan, pasobra e hòmbernan a wòrdu umiyá masha. I rei a bisa: \"Keda na Jeriko te ora boso barba krese i e ora ei boso bolbe.\""
+19,6,"Ora ku e yu hòmbernan di Amon a mira ku nan a hasi nan mes un abominashon pa David, Hanun i e yu hòmbernan di Amon a manda mil talento di plata pa hür garoshi i koredó di kabai pa nan mes for di Mesopotamia, for di Aram-maaka i for di Soba."
+19,7,"Asina nan a hür pa nan mes trint'i dos mil garoshi, i tambe nan a hür e rei di Maaka i su hendenan, ku a bin kampa dilanti di Medeba. I e yu hòmbernan di Amon a reuní huntu for di nan statnan i a bin bataya."
+19,8,"Ora David a tende esaki, el a manda Joab i henter e ehérsito, e hòmbernan poderoso."
+19,9,"I e yu hòmbernan di Amon a sali i a pone nan mes den òrdu di bataya na entrada di e stat, i e reinan ku a bin a keda nan so den sabana."
+19,10,"Awor ora Joab a mira ku e bataya tabata kontra djé dilanti i patras, el a skohe for di tur e hòmbernan skohí di Israel i a pone nan den òrdu di bataya kontra e sirionan."
+19,11,"Ma e hendenan ku a resta el a pone den man di su ruman hòmber Abisai; i nan a pone nan mes den òrdu di bataya kontra e yu hòmbernan di Amon."
+19,12,"I Joab a bisa: \"Si e sirionan ta muchu fuerte pa mi, e ora ei abo lo yudami; ma si e yu hòmbernan di Amon ta muchu fuerte pa bo, e ora ei ami lo yudabo."
+19,13,"Sea fuerte, i laga nos mustra nos mes yen di kurashi pa kousa di nos pueblo i pa e statnan di nos Dios; i ku SEÑOR hasi loke ta bon den Su bista.\""
+19,14,"Asina Joab i e pueblo ku tabata huntu kuné a hala serka pa bringa kontra e sirionan, i nan a hui su dilanti."
+19,15,"Ora ku e yu hòmbernan di Amon a mira ku e sirionan a hui, nan tambe a hui dilanti di su ruman hòmber Abisai i a drenta stat. Anto Joab a bin Jerusalèm."
+19,16,"Ora ku e sirionan a mira ku nan a wòrdu derotá dor di Israel, nan a manda mensaheronan i a saka e sirionan ku tabata na e otro banda di Riu Eufrates, i Sofak, komandante di e ehérsito di Hadadezer, tabata guia nan."
+19,17,"Ora nan a konta David esaki, el a reuní henter Israel huntu, a krusa Jordan, a bin riba nan i a bai para den òrdu di bataya kontra nan. I ora David a bai para den òrdu di bataya kontra e sirionan, nan a bringa kontra djé."
+19,18,"I e sirionan a hui dilanti di Israel, i di e sirionan David a mata shete mil koredó di garoshi i kuarenta mil sòldá-na-pia, i a mata Sofak, komandante di e ehérsito."
+19,19,"I ora ku e sirbidónan di Hadadezer a mira ku nan a wòrdu derotá dor di Israel, nan a hasi pas ku David i a sirbié. Asina e sirionan no tabata kier a yuda e yu hòmbernan di Amon mas."
+20,1,"Anto a sosodé ku na kuminsamentu di aña, na e tempu ku reinan ta bai bataya, Joab a guia e ehérsito, a destruí e tera di e yu hòmbernan di Amon, i a bin rondoná Raba. Ma David a keda Jerusalèm. I Joab a derotá Raba i a destruié."
+20,2,"I David a kita e korona di nan rei for di su kabes, i a resultá ku esaki tabata pisa un talento di oro i ku tabatin un piedra presioso na djé; i el a wòrdu poní riba David su kabes. I el a saka e botín for di e stat, un kantidat masha grandi mes."
+20,3,"I el a saka e hendenan ku tabata den djé, i a kòrta nan ku zag, ku hèrmènt skèrpi i ku hacha. I asina David a hasi ku tur e statnan di e yu hòmbernan di Amon. E ora ei David i henter e pueblo a bolbe Jerusalèm."
+20,4,"Awor a sosodé ku despues di esaki guera a kuminsá na Gezer kontra e filisteonan; anto Sibekai e husatita a mata Sipai, un di e desendientenan di e gigantenan, i nan a wòrdu sometí."
+20,5,"I tabatin guera kontra e filisteonan atrobe, i Elhanan, yu hòmber di Jair, a mata Lahmi, ruman hòmber di Goliat e geteo, kende su kabo di lansa tabata manera balki di un wefdó-di-tela."
+20,6,"I tabatin guera atrobe na Gat, kaminda tabatin un hòmber di gran estatura ku tabatin bint'i kuater dede di man i di pia, seis dede na kada man i seis dede na kada pia; i e tambe tabata desendiente di e gigantenan."
+20,7,"I ora ku el a desafiá Israel, Jonatan, yu hòmber di Simea, David su ruman hòmber, a mat'é."
+20,8,"Esakinan tabata desendiente di e gigantenan na Gat, i nan a muri na man di David i na man di su sirbidónan."
+21,1,"E ora ei Satanás a lanta kontra Israel i a instigá David pa konta Israel."
+21,2,"Asina David a bisa Joab i e prensnan di e pueblo: \"Bai konta Israel for di Beerseba te na Dan, i trese informashon pa mi por sa kuantu nan ta.\""
+21,3,"I Joab a bisa: \"Ku SEÑOR añadí na Su pueblo shen biaha mas tantu di loke nan ta! Ma señor mi rei, nan tur no ta sirbidó di mi señor? Pakiko mi señor ta buska e kos aki? Pakiko e mester ta un kousa di kulpa pa Israel?\""
+21,4,"Sinembargo, rei su palabra a prevalesé kontra Joab. Pesei Joab a sali bai, a bai dor di henter Israel i a bolbe Jerusalèm."
+21,5,"I Joab a duna David e total di e senso di henter e pueblo. I na henter Israel tabatin un miyon shen mil hòmber ku tabata saka spada. I na Juda tabatin kuater shent'i setenta mil hòmber ku tabata saka spada."
+21,6,"Ma e no a konta ni Leví ni Benjamin den nan, pasobra Joab tabata aboresé e òrdu di rei."
+21,7,"I Dios a keda malkontentu ku e kos aki, asina ku El a dal Israel."
+21,8,"I David a bisa Dios: \"Mi a peka gravemente dor di hasi e kos aki. Ma awor, pa fabor, kita e inikidat di Bo sirbidó, pasobra mi a aktua masha bobo mes.\""
+21,9,"I SEÑOR a papia ku Gad, David su miradó, bisando:"
+21,10,"\"Bai papia ku David, bisando: 'Asina SEÑOR ta bisa: \"Tres kos Mi ta ofresébo; abo skohe un di nan, pa Mi laga esei sosodé ku bo.\"'\""
+21,11,"Asina Gad a bin serka David i a bis'é: \"Asina SEÑOR ta bisa: 'Skohe pa bo mes"
+21,12,"sea tres aña di hamber, òf tres luna di hui dilanti di bo enemigunan, mientras ku spada di bo enemigunan ta alkansábo, òf tres dia di spada di SEÑOR, esta, pestilensia den e tera, i e angel di SEÑOR tresiendo destrukshon den henter e teritorio di Israel.' Pesei anto, pensa bon ki kontesta mi mester hiba pa Esun ku a mandami.\""
+21,13,"I David a bisa Gad: \"Mi ta den gran angustia; pa fabor, lagami kai den man di SEÑOR, pasobra Su miserikòrdianan ta masha grandi mes. Ma no lagami kai den man di hende.\""
+21,14,"Asina SEÑOR a manda un pestilensia riba Israel; i setenta mil hòmber di Israel a muri."
+21,15,"I Dios a manda un angel na Jerusalèm pa destruié; ma ora ku e tabata kla pa destruié, SEÑOR a mira, i e kalamidat a duel E, i El a bisa e angel destruidó: \"Ta basta; baha bo man awor.\" I e angel di SEÑOR tabata pará banda di e plenchi-di-bati-mainshi di Ornan e jebuseo."
+21,16,"E ora ei David a hisa kara wak i a mira e angel di SEÑOR pará meimei di shelu i tera, ku su spada saká for di baliña den su man, ekstendí riba Jerusalèm. E ora ei David i e ansianonan, bistí na paña-di-saku, a tira nan kurpa abou ku nan kara te na suela."
+21,17,"I David a bisa Dios: \"No ta ami a duna òrdu pa konta e pueblo? Di bèrdat, ta ami ta esun ku a peka i ku a hasi masha malu mes, ma e karnénan aki, ta kiko nan a hasi? O SEÑOR mi Dios, pa fabor, laga Bo man ta kontra mi i kontra e hendenan di e kas di mi tata, ma no kontra Bo pueblo, pa plaga no bin riba nan.\""
+21,18,"E ora ei e angel di SEÑOR a ordená Gad pa bisa David ku David mester bai traha un altar na SEÑOR riba e plenchi-di-bati-mainshi di Ornan e jebuseo."
+21,19,"Asina David a subi bai konforme e palabra di Gad, ku el a papia den e nòmber di SEÑOR."
+21,20,"Awor Ornan a bira i a mira e angel, i su kuater yu hòmbernan ku tabata huntu kuné a bai skonde. Anto Ornan tabata bati mainshi."
+21,21,"I ora David a bin serka Ornan, Ornan a hisa kara i a mira David; i el a sali for di e plenchi-di-bati-mainshi i a tira su kurpa abou ku su kara te na suela dilanti di David."
+21,22,"E ora ei David a bisa Ornan: \"Dunami e lugá di e plenchi-di-bati-mainshi aki, pa mi traha un altar na SEÑOR riba djé. Dunamié pa su preis kompleto, pa e plaga wòrdu kitá for di e pueblo.\""
+21,23,"I Ornan a bisa David: \"Tum'é pa bo, i laga señor mi rei hasi loke ta bon den su bista. Mira, lo mi duna e bueynan pa ofrendanan kimá, e hèrmèntnan-pa-bati-mainshi komo palu, i e mainshi pa e ofrenda di mainshi. Mi ta duna tur esaki.\""
+21,24,"Ma rei David a bisa Ornan: \"Nò, ma siguramente mi kier kumpr'é pa e preis kompleto, pasobra mi no kier tuma pa SEÑOR loke ta di bo, ni ofresé un ofrenda kimá ku no ta kostami nada.\""
+21,25,"Asina David a duna Ornan e peso di seis shen siklo di oro pa e lugá."
+21,26,"E ora ei David a traha un altar na SEÑOR ayanan, i a ofresé ofrendanan kimá i ofrendanan di pas. I el a invoká SEÑOR; i El a kontest'é ku kandela for di shelu riba e altar di ofrenda kimá."
+21,27,"I SEÑOR a ordená e angel, i el a hinka su spada bèk den su baliña."
+21,28,"Na e momento ei, ora David a mira ku SEÑOR a kontest'é riba e plenchi-di-bati-mainshi di Ornan e jebuseo, el a ofresé sakrifisio ayanan."
+21,29,"Pasobra e tabernakel di SEÑOR, ku Moisés a traha den desierto, i e altar di ofrenda kimá tabata na e lugá haltu na Gabaon e tempu ei."
+21,30,"Ma David no por a bai dilanti di esaki pa konsultá ku Dios, pasobra e tabatin hopi temor pa e spada di e angel di SEÑOR."
+22,1,"Anto David a bisa: \"Esaki ta e kas di SEÑOR Dios i esaki ta e altar di ofrenda kimá pa Israel.\""
+22,2,"Asina David a duna òrdu pa reuní e stranheronan ku tabata na tera di Israel, i el a nombra kapdónan di piedra pa kap piedra pa traha e kas di Dios."
+22,3,"I David a prepará kantidatnan grandi di heru pa traha e klabunan pa e portanan di e entradanan i pa e skarnirnan, i mas bròns ku nan por a pisa,"
+22,4,"i palu di seda ku no por a wòrdu kontá, pasobra e sidonionan i tirionan tabata trese kantidatnan grandi di palu di seda pa David."
+22,5,"I David a bisa: \"Mi yu Salomon ta hoben i sin eksperensia, i e kas ku mester wòrdu trahá pa SEÑOR lo ta súmamente magnífiko, famoso i glorioso den bista di tur e nashonnan. Pesei mi kier hasi preparashon p'é.\" Asina David a hasi preparashonnan amplio promé ku su morto."
+22,6,"E ora ei el a manda yama su yu hòmber Salomon i a dun'é enkargo pa traha un kas pa e SEÑOR Dios di Israel."
+22,7,"I David a bisa Salomon: \"Mi yu, mi tabatin intenshon di traha un kas na e nòmber di SEÑOR mi Dios."
+22,8,"Ma e palabra di SEÑOR a yega na mi, bisando: 'Bo a drama hopi sanger, i a hasi gueranan grandi; abo lo no traha un kas na Mi nòmber, pasobra bo a drama asina hopi sanger riba tera Mi dilanti."
+22,9,"Mira, lo nase pa bo un yu ku lo ta un hòmber di sosiegu; i lo Mi dun'é sosiegu for di tur su enemigunan tur rònt di djé, pasobra su nòmber lo ta Salomon, i lo Mi duna pas i trankilidat na Israel den su dianan."
+22,10,"E lo traha un kas pa Mi nòmber, i e lo ta Mi yu, i Ami lo ta su tata; i lo Mi stablesé e trono di su reino riba Israel pa semper.'"
+22,11,"\"Awor, mi yu, SEÑOR sea ku bo pa bo prosperá i traha e kas di SEÑOR bo Dios, meskos ku El a papia tokante di bo."
+22,12,"Di bèrdat, ku SEÑOR dunabo prudensia i komprendementu i dunabo enkargo di Israel, pa bo kumpli ku e lei di SEÑOR bo Dios."
+22,13,"E ora ei lo bo prosperá, si bo pèrkurá di kumpli ku e statutonan i ordenansanan ku SEÑOR a ordená Moisés tokante di Israel. Sea fuerte i tene kurashi; no tene miedu ni desmayá."
+22,14,"\"At'awor, ku hopi esfuerso mi a prepará pa e kas di SEÑOR shen mil talento di oro i un miyon talento di plata, i bròns i heru ku no por wòrdu pisá, pasobra nan ta na kantidat grandi; tambe mi a prepará palu i piedra, i abo mag añadí na nan."
+22,15,"Ademas, tin hopi trahadó serka bo: kapdó di piedra, mèslá i karpinté, i hòmbernan eksperto den tur ramo di trabou."
+22,16,"Na oro, plata, bròns i heru no tin límite. Lant'ariba i traha, i ku SEÑOR sea ku bo.\""
+22,17,"Tambe David a ordená tur e lidernan di Israel pa yuda su yu hòmber Salomon, bisando:"
+22,18,"\"SEÑOR boso Dios no ta ku boso? I E no a duna boso sosiegu na tur banda? Pasobra El a entregá e habitantenan di e tera den mi man, i e tera ta keda sometí dilanti di SEÑOR i dilanti di Su pueblo."
+22,19,"Awor, pone boso kurason i boso alma pa buska SEÑOR boso Dios; lanta anto, i traha e santuario di SEÑOR Dios, pa boso por trese e arka di e aliansa di SEÑOR i e artíkulonan-di-uzo santu di Dios den e kas ku lo wòrdu trahá pa e nòmber di SEÑOR.\""
+23,1,"Awor ora David a bira bieu, el a hasi su yu hòmber Salomon rei riba Israel."
+23,2,"I el a reuní tur e lidernan di Israel huntu ku e saserdotenan i e levitanan."
+23,3,"I e levitanan a wòrdu kontá for di trinta aña p'ariba, i nan kantidat, segun senso, tabata trint'i ocho mil hòmber."
+23,4,"Di esakinan bint'i kuater mil mester a dirigí e trabou di e kas di SEÑOR; i seis mil tabata ofisial i hues,"
+23,5,"i kuater mil tabata wardadó-di-porta, i kuater mil tabata alabá SEÑOR ku e instrumèntnan ku David a laga traha pa duna alabansa."
+23,6,"I David a parti nan den grupo, segun e yu hòmbernan di Leví: Gerson, Koat i Merari."
+23,7,"Di e gersonitanan tabatin Laadan i Simei."
+23,8,"E yu hòmbernan di Laadan tabata: Jehiel, e promé, Zetam i Joel, tres."
+23,9,"E yu hòmbernan di Simei tabata: Selomit, Haziel i Haran, tres. Esakinan tabata e kabesnan di e kasnan di e tatanan di Laadan."
+23,10,"I e yu hòmbernan di Simei tabata: Jahat, Zina, Jeús i Beria. E kuaternan aki tabata e yu hòmbernan di Simei."
+23,11,"I Jahat tabata e promé, Ziza e di dos; ma Jeús i Beria no tabatin hopi yu hòmber, asina nan a bira ún famia, ún grupo."
+23,12,"E yu hòmbernan di Koat tabata kuater: Amram, Izhar, Hebròn i Uziel."
+23,13,"E yu hòmbernan di Amram tabata Aaron i Moisés. I Aaron a wòrdu apartá pa e wòrdu santifiká komo masha santu mes, é ku su yu hòmbernan pa semper, pa kima sensia dilanti di SEÑOR, pa sirbiE i pa bendishoná den Su nòmber pa semper."
+23,14,"Ma pa loke ta Moisés, e hòmber di Dios, su yu hòmbernan a wòrdu kontá den e tribu di Leví."
+23,15,"E yu hòmbernan di Moisés tabata Gerson i Eliezer."
+23,16,"E yu hòmber di Gerson tabata Sebuel, e hefe."
+23,17,"I e yu hòmber di Eliezer tabata Rehabias, e hefe; i Eliezer no tabatin mas yu hòmber, ma e yu hòmbernan di Rehabias tabata masha hopi mes."
+23,18,"E yu hòmber di Izhar tabata Selomit, e hefe."
+23,19,"E yu hòmbernan di Hebròn tabata Jerias, e promé; Amarias, e di dos; Jahaziel, e di tres; i Jekaman, e di kuater."
+23,20,"E yu hòmbernan di Uziel tabata Mikaia, e promé i Isias, e di dos."
+23,21,"E yu hòmbernan di Merari tabata Mahli i Musi. E yu hòmbernan di Mahli tabata Eleazar i Kis."
+23,22,"Anto Eleazar a muri i no tabatin yu hòmber, sino solamente yu muhé; asina nan rumannan, e yu hòmbernan di Kis, a tuma nan komo esposa."
+23,23,"E yu hòmbernan di Musi tabata tres: Mahli, Edar i Jeremot."
+23,24,"Esakinan tabata e yu hòmbernan di Leví segun e kasnan di nan tatanan, e kabesnan di e kasnan di e tatanan di esnan di nan ku a wòrdu kontá konforme e kantidat di nòmber segun nan senso, ku tabata hasi e trabou pa sirbishi di e kas di SEÑOR, for di binti aña p'ariba."
+23,25,"Pasobra David a bisa: \"SEÑOR Dios di Israel a duna Su pueblo sosiegu, i E ta biba na Jerusalèm pa semper."
+23,26,"I tambe, e levitanan no tin mester di karga e tabernakel mas i tur e artíkulonan-di-uzo pa su sirbishi.\""
+23,27,"Pasobra segun e último palabranan di David e yu hòmbernan di Leví a wòrdu kontá, for di binti aña p'ariba."
+23,28,"Pasobra nan tarea ta pa asistí e yu hòmbernan di Aaron den e sirbishi di e kas di SEÑOR, den e plenchinan, den e kambernan i den e purifikashon di tur e kosnan santu, e trabou di sirbishi den e kas di Dios,"
+23,29,"i ku e pan di proposishon, e hariña fini pa un ofrenda di mainshi, e oblea sin zürdeg, òf loke ta wòrdu prepará riba kasuela, òf loke ta bon mesklá, i tur midí di kantidat i tamaño."
+23,30,"I nan mester para tur mainta pa gradisí i pa alabá SEÑOR, i meskos atardi;"
+23,31,"i pa ofresé tur ofrenda kimá na SEÑOR, riba e dianan di sabat, e lunanan nobo i e fiestanan stipulá, segun e kantidat i konforme e ordenansa duná tokante di nan, kontinuamente dilanti di SEÑOR."
+23,32,"Asina nan mester atendé e tènt di reunion, atendé e lugá santu i atendé e yu hòmbernan di Aaron, nan rumannan, pa e sirbishi di e kas di SEÑOR."
+24,1,"Awor e divishonnan di e desendientenan di Aaron tabata esakinan: e yu hòmbernan di Aaron tabata Nadab, Abiú, Eleazar i Itamar."
+24,2,"Ma Nadab i Abiú a muri promé ku nan tata i nan no tabatin yu hòmber. Asina Eleazar i Itamar tabata sirbi komo saserdote."
+24,3,"Anto David ku Sadok di e yu hòmbernan di Eleazar, i Ahimelek di e yu hòmbernan di Itamar, a parti nan segun nan puesto pa nan sirbishi."
+24,4,"Komo ku tabatin mas hòmbernan lider for di e desendientenan di Eleazar ku for di e desendientenan di Itamar, nan a parti nan asin'aki: dieseis kabes di e kasnan di e tatanan di e desendientenan di Eleazar i ocho di e desendientenan di Itamar, segun e kasnan di nan tatanan."
+24,5,"Asina nan a wòrdu dividí pa medio di lòt, tantu esun grupo komo e otro; pasobra tabatin ofisialnan di e santuario i ofisialnan di Dios, tantu for di e desendientenan di Eleazar komo for di e desendientenan di Itamar."
+24,6,"I Semaias, yu hòmber di Natanael e eskriba, un di e levitanan, a registrá nan den e presensia di rei, e prensnan, saserdote Sadok, Ahimelek, yu hòmber di Abiatar, i e kabesnan di e kasnan di e tatanan di e saserdotenan i di e levitanan; kas di un tata tumá pa Eleazar i un tumá pa Itamar."
+24,7,"Awor e promé lòt a kai riba Joiarib, e di dos riba Jedaias,"
+24,8,"e di tres riba Harim, e di kuater riba Seorim,"
+24,9,"e di sinku riba Malkias, e di seis riba Mijamin,"
+24,10,"e di shete riba Hakos, e di ocho riba Abias,"
+24,11,"e di nuebe riba Jesúa, e di dies riba Sekanias,"
+24,12,"e di diesun riba Eliasib, e di diesdos riba Jakim,"
+24,13,"e di diestres riba Hupa, e di dieskuater riba Jesebeab,"
+24,14,"e di diesinku riba Bilga, e di dieseis riba Imer,"
+24,15,"e di dieshete riba Hezir, e di diesocho riba Hapizez,"
+24,16,"e di diesnuebe riba Petaias, e di binti riba Jezekiel,"
+24,17,"e di bint'i un riba Jakin, e di bint'i dos riba Gamul,"
+24,18,"e di bint'i tres riba Delaia, e di bint'i kuater riba Maazias."
+24,19,"Esakinan tabata nan puestonan pa nan sirbishi, dia nan a drenta e kas di SEÑOR konforme e ordenansa ku nan tata Aaron a duna nan, meskos ku e SEÑOR Dios di Israel a orden'é."
+24,20,"Awor pa loke ta e otro yu hòmbernan di Leví: di e yu hòmbernan di Amram: Subael; di e yu hòmbernan di Subael: Jehedias."
+24,21,"Di Rehabias: di e yu hòmbernan di Rehabias: Isias, e promé."
+24,22,"Di e izharitanan: Selomot; di e yu hòmbernan di Selomot: Jahat."
+24,23,"I di e yu hòmbernan di Hebròn: Jerias, e promé; Amarias, e di dos; Jahaziel, e di tres; Jekaman, e di kuater."
+24,24,"Di e yu hòmbernan di Uziel: Mikaia; di e yu hòmbernan di Mikaia: Samir."
+24,25,"E ruman hòmber di Mikaia: Isias; di e yu hòmbernan di Isias: Zakarias."
+24,26,"E yu hòmbernan di Merari: Mahli i Musi. E yu hòmber di Jaazias: Beno."
+24,27,"E yu hòmbernan di Merari: for di Jaazias: Beno, Soham, Zakur i Ibri."
+24,28,"For di Mahli: Eleazar, kende no tabatin yu hòmber."
+24,29,"For di Kis: e yu hòmber di Kis: Jerameel."
+24,30,"I e yu hòmbernan di Musi: Mahli, Edar i Jerimot. Esakinan tabata e yu hòmbernan di e levitanan segun e kasnan di nan tatanan."
+24,31,"Esakinan tambe a tira lòt meskos ku nan rumannan, e yu hòmbernan di Aaron, den presensia di rei David, Sadok, Ahimelek i e kabesnan di e kasnan di e tatanan di e saserdotenan i di e levitanan--tantu e kabes di e kasnan di e tatanan, komo esnan di su ruman hòmber mas chikitu."
+25,1,"Ademas, David i e komandantenan di e ehérsito a apartá pa sirbishi algun di e yu hòmbernan di Asaf, di Heman i di Jedutun, pa profetisá ku salterio, arpa i simbal; i e kantidat di esnan ku tabata hasi e sirbishi aki tabata:"
+25,2,"Di e yu hòmbernan di Asaf: Zakur, Jose, Netanias i Asarela; e yu hòmbernan di Asaf tabata bou di direkshon di Asaf, kende tabata profetisá bou di direkshon di rei."
+25,3,"Di Jedutun: e yu hòmbernan di Jedutun: Gedalias, Zeri, Jesaias, Simei, Hasabias i Matitias, seis, bou di direkshon di nan tata Jedutun ku arpa, kendenan tabata profetisá, gradisiendo i alabando SEÑOR."
+25,4,"Di Heman: e yu hòmbernan di Heman: Bukias, Matanias, Uziel, Sebuel, Jeremot, Hananias, Hanani, Eliata, Gidalti, Romamti-ezer, Josbekasa, Maloti, Hotir i Mahaziot."
+25,5,"Tur esakinan tabata e yu hòmbernan di Heman, e miradó di rei, pa onr'é konforme e palabranan di Dios, pasobra Dios a duna Heman dieskuater yu hòmber i tres yu muhé."
+25,6,"Tur esakinan tabata bou di direkshon di nan tata pa kanta den e kas di SEÑOR ku simbal, arpa i salterio, pa e sirbishi di e kas di Dios. Asaf, Jedutun i Heman tabata bou di direkshon di rei."
+25,7,"I nan kantidat, huntu ku nan rumannan, instruí pa kanta na SEÑOR, tur ku tabata eksperto, tabata 288."
+25,8,"I nan a tira lòt pa regla nan sirbishinan, tur meskos, tantu chikitu komo grandi, tantu maestro komo alumno."
+25,9,"Awor e promé lòt pa Asaf a kai riba Jose, e di dos riba Gedalias, é ku su rumannan i yu hòmbernan tabata 12;"
+25,10,"e di tres riba Zakur, su yu hòmbernan i su rumannan, 12;"
+25,11,"e di kuater riba Izri, su yu hòmbernan i su rumannan, 12;"
+25,12,"e di sinku riba Netanias, su yu hòmbernan i su rumannan, 12;"
+25,13,"e di seis riba Bukias, su yu hòmbernan i su rumannan, 12;"
+25,14,"e di shete riba Jesarela, su yu hòmbernan i su rumannan, 12;"
+25,15,"e di ocho riba Jesaias, su yu hòmbernan i su rumannan, 12;"
+25,16,"e di nuebe riba Matanias, su yu hòmbernan i su rumannan, 12;"
+25,17,"e di dies riba Simei, su yu hòmbernan i su rumannan, 12;"
+25,18,"e di diesun riba Azareel, su yu hòmbernan i su rumannan, 12;"
+25,19,"e di diesdos riba Hasabias, su yu hòmbernan i su rumannan, 12;"
+25,20,"e di diestres riba Subael, su yu hòmbernan i su rumannan, 12;"
+25,21,"e di dieskuater riba Matitias, su yu hòmbernan i su rumannan, 12;"
+25,22,"e di diesinku riba Jeremot, su yu hòmbernan i su rumannan, 12;"
+25,23,"e di dieseis riba Hananias, su yu hòmbernan i su rumannan, 12;"
+25,24,"e di dieshete riba Josbekasa, su yu hòmbernan i su rumannan, 12;"
+25,25,"e di diesocho riba Hanani, su yu hòmbernan i su rumannan, 12;"
+25,26,"e di diesnuebe riba Maloti, su yu hòmbernan i su rumannan, 12;"
+25,27,"e di binti riba Eliata, su yu hòmbernan i su rumannan, 12;"
+25,28,"e di bint'i un riba Hotir, su yu hòmbernan i su rumannan, 12;"
+25,29,"e di bint'i dos riba Gidalti, su yu hòmbernan i su rumannan, 12;"
+25,30,"e di bint'i tres riba Mahaziot, su yu hòmbernan i su rumannan, 12;"
+25,31,"e di bint'i kuater pa Romamti-ezer, su yu hòmbernan i su rumannan, 12."
+26,1,"Pa e divishonnan di e wardadónan-di-porta tabatin di e koreitanan: Meselemias, yu hòmber di Koré, di e yu hòmbernan di Asaf."
+26,2,"I Meselemias tabatin yu hòmbernan: Zakarias, e primogénito; Jediael, e di dos; Zebadias, e di tres; Jatniel, e di kuater;"
+26,3,"Elam, e di sinku; Johanan, e di seis; Elioenai, e di shete."
+26,4,"I Obed-edòm tabatin yu hòmbernan: Semaias, e primogénito; Jozabad, e di dos; Joa, e di tres; Sakar, e di kuater; Natanael, e di sinku;"
+26,5,"Amiel, e di seis; Isakar, e di shete; i Peultai, e di ocho; Dios a bendishon'é di bèrdat."
+26,6,"Tambe pa su yu hòmber Semaias a nase yu hòmbernan ku tabata goberná riba e kas di nan tata, pasobra nan tabata hòmbernan poderoso i balente."
+26,7,"E yu hòmbernan di Semaias tabata Otni, Rafael, Obed i Elzabad, kende su ruman hòmbernan Eliú i Samakias tabata hòmbernan balente."
+26,8,"Tur esakinan tabata di e yu hòmbernan di Obed-edòm; nan i nan yu hòmbernan i nan rumannan tabata hòmbernan kapas i fuerte pa e sirbishi, 62 for di Obed-edòm."
+26,9,"I Meselemias tabatin yu hòmbernan i rumannan, 18 hòmber balente."
+26,10,"Tambe Hosa, un di e yu hòmbernan di Merari, tabatin yu hòmbernan: Simri, e promé; (ounke ku e no tabata e primogénito, su tata a hasié e promé);"
+26,11,"Hilkias, e di dos; Tebalias, e di tres; Zakarias, e di kuater; na tur, e yu hòmbernan i e rumannan di Hosa tabata 13."
+26,12,"Na e divishonnan aki di e wardadónan-di-porta, e hòmbernan lider, a wòrdu duná responsabilidatnan meskos ku nan rumannan, pa sirbi den e kas di SEÑOR."
+26,13,"Nan a tira lòt, tantu chikitu komo grandi, segun e kasnan di nan tatanan, pa kada porta di stat."
+26,14,"I e lòt pa e porta pariba a kai riba Selemias. Despues nan a tira lòt pa su yu hòmber Zakarias, un konsehero ku disernimentu, i su lòt a kai pa esun panòrt."
+26,15,"Pa Obed-edòm, e lòt a kai pa e Porta Pasùit, i pa su yu hòmbernan, e mangasina."
+26,16,"Pa Supim i Hosa e lòt a kai pa e Porta Pabou, banda di e Porta di Saleket, na e subida di e kaminda grandi--guardia enfrente di guardia."
+26,17,"Parti pariba tabatin seis levita, parti panòrt kuater tur dia, parti pasùit kuater tur dia, i na e mangasina dos-dos."
+26,18,"Na e plenchi parti pabou tabatin kuater na e kaminda grandi i dos na e plenchi."
+26,19,"Esakinan tabata e divishonnan di e wardadónan-di-porta di e yu hòmbernan di Koré i di e yu hòmbernan di Merari."
+26,20,"I e levitanan, nan rumannan, tabata enkargá ku e tesoronan di e kas di Dios i ku e tesoronan di e kosnan dediká."
+26,21,"E yu hòmbernan di Laadan, e yu hòmbernan di e gersonitanan ku ta pertenesé na Laadan, esta, e jehielitanan, tabata e kabesnan di e kasnan di e tatanan, ku ta pertenesé na Laadan e gersonita."
+26,22,"E yu hòmbernan di Jehieli, Zetam i su ruman hòmber Joel, tabatin enkargo di e tesoronan di e kas di SEÑOR."
+26,23,"Pa loke ta e amramitanan, e izharitanan, e hebronitanan i e uzielitanan:"
+26,24,"Sebuel, yu hòmber di Gerson, yu hòmber di Moisés, tabata e ofisial enkargá ku e tesoronan."
+26,25,"I su rumannan di e desendensia di Eliezer tabata su yu hòmber, Rehabias; Rehabias su yu hòmber, Jesaias; Jesaias su yu hòmber, Joram; Joram su yu hòmber, Zikri, i Zikri su yu hòmber, Selomit."
+26,26,"E Selomit aki i su rumannan tabatin enkargo di tur e tesoronan di e kosnan dediká, ku rei David i e kabesnan di e kasnan di e tatanan, e komandantenan di milnan i shennan, i komandantenan di e ehérsito, a dediká."
+26,27,"Nan a dediká parti di e botín ku nan a gana den batayanan pa drecha e kas di SEÑOR."
+26,28,"I tur kos ku Samuel, e miradó, i Saul, yu hòmber di Kis, i Abner, yu hòmber di Ner, i Joab, yu hòmber di Sarvia, a dediká, i tur otro kos ku a wòrdu dediká, tabata na enkargo di Selomit i su rumannan."
+26,29,"I pa loke ta e izharitanan, Kenanias i su yu hòmbernan a wòrdu nombrá pa atendé e responsabilidatnan pafó di Jerusalèm, komo ofisialnan i huesnan di Israel."
+26,30,"Pa loke ta e hebronitanan, Hasabias i su rumannan, mil shete shen hòmber kapas, tabatin enkargo di e asuntonan di Israel pabou di Jordan, pa tur e obra di SEÑOR i e sirbishi di rei."
+26,31,"Entre e hebronitanan, Jerias tabata hefe di e hebronitanan segun genealogia di e kasnan di nan tatanan. Den e di kuarenta aña di David su reinado nan a wòrdu investigá, i hòmbernan di gran kapasidat a wòrdu hañá meimei di nan na Jazer di Galaad."
+26,32,"I su rumannan, hòmbernan kapasitá, tabata dos mil shete shen, kabesnan di e kasnan di e tatanan. I rei David a nombra nan riba e rubenitanan, e gaditanan i e mitar tribu di Manasés, enkuanto tur e asuntonan di Dios i di rei."
+27,1,"Awor esaki ta e kantidat di e yunan di Israel, e kabesnan di e kasnan di e tatanan, komandantenan di milnan i di shennan, i nan ofisialnan ku tabata sirbi rei den tur e asuntonan di e divishonnan ku tabata drenta i sali luna tras luna durante di tur e lunanan di aña; kada divishon tabatin 24.000 hòmber."
+27,2,"Jasobeam, yu hòmber di Zabdiel, tabatin enkargo di e promé divishon pa e promé luna; i den su divishon tabatin 24.000 hòmber."
+27,3,"E tabata di e yu hòmbernan di Fares, i tabata hefe di tur e komandantenan di e ehérsito pa e promé luna."
+27,4,"Dodai e ahohita, i su divishon tabatin enkargo di e divishon pa e di dos luna, i Miklot tabata e lider; i den su divishon tabatin 24.000 hòmber."
+27,5,"E di tres komandante di e ehérsito pa e di tres luna tabata Bènaia, yu hòmber di saserdote Joiada, komo hefe; i den su divishon tabatin 24.000 hòmber."
+27,6,"E Bènaia aki tabata e hòmber poderoso di e trintanan, i e tabatin enkargo di trinta; i su yu hòmber Amizabad tabata manda riba su divishon."
+27,7,"E di kuater pa e di kuater luna tabata Asael, ruman hòmber di Joab, i su yu hòmber Zebadias despues di djé; i den su divishon tabatin 24.000 hòmber."
+27,8,"E di sinku pa e di sinku luna tabata komandante Samhut e izraita; i den su divishon tabatin 24.000 hòmber."
+27,9,"E di seis pa e di seis luna tabata Ira, yu hòmber di Ikes e tekoita; i den su divishon tabatin 24.000 hòmber."
+27,10,"E di shete pa e di shete luna tabata Heles e pelonita, di e yu hòmbernan di Efrain; i den su divishon tabatin 24.000 hòmber."
+27,11,"E di ocho pa e di ocho luna tabata Sibekai e husatita, di e zeraitanan; i den su divishon tabatin 24.000 hòmber."
+27,12,"E di nuebe pa e di nuebe luna tabata Abiezer e anatotita, di e benjaminitanan; i den su divishon tabatin 24.000 hòmber."
+27,13,"E di dies pa e di dies luna tabata Maharai e netofatita, di e zeraitanan; i den su divishon tabatin 24.000 hòmber."
+27,14,"E di diesun pa e di diesun luna tabata Bènaia e piratonita, di e yu hòmbernan di Efrain; i den su divishon tabatin 24.000 hòmber."
+27,15,"E di diesdos pa e di diesdos luna tabata Heldai e netofatita, di Otoniel; i den su divishon tabatin 24.000 hòmber."
+27,16,"Awor esnan enkargá ku e tribunan di Israel: e ofisial di e rubenitanan tabata Eliezer, yu hòmber di Zikri; di e simeonitanan: Sefatias, yu hòmber di Maaka;"
+27,17,"di Leví: Hasabias, yu hòmber di Kemuel; di Aaron: Sadok;"
+27,18,"di Juda: Eliú, un di David su ruman hòmbernan; di Isakar: Omri, yu hòmber di Mikael;"
+27,19,"di Zabulon: Ismaias, yu hòmber di Abdias; di Nèftalí: Jerimot, yu hòmber di Azriel;"
+27,20,"di e yu hòmbernan di Efrain: Hosea, yu hòmber di Azazias; di e mitar tribu di Manasés: Joel, yu hòmber di Pedaias;"
+27,21,"di e mitar tribu di Manasés na Galaad: Ido, yu hòmber di Zakarias; di Benjamin: Jaasiel, yu hòmber di Abner;"
+27,22,"di Dan: Azareel, yu hòmber di Jeroham. Esakinan tabata e prensnan di e tribunan di Israel."
+27,23,"Ma David no a konta esnan di binti aña di edat bai abou, pasobra SEÑOR a bisa ku E lo multipliká Israel manera e streanan di shelu."
+27,24,"Joab, yu hòmber di Sarvia, a kuminsá konta nan, ma no a kaba; i pa motibu di esaki furia a bin riba Israel, i e kantidat no tabata inkluí den e registro di e krónikanan di rei David."
+27,25,"Awor Azmavet, yu hòmber di Adiel, tabatin rei su lugánan-di-warda-tesoro na su enkargo. I Jonatan, yu hòmber di Uzias, tabatin e depósitonan den kunuku, den e statnan, den e pueblitonan i den e torennan na su enkargo."
+27,26,"I Ezri, yu hòmber di Kelub, tabatin e trahadónan ku tabata kultivá e tera na su enkargo."
+27,27,"I Simei e ramatita tabatin e kunukunan di wendrùif na su enkargo. I Zabdi e sifmita tabatin e produktonan di e kunukunan di wendrùif den e bodeganan di biña na su enkargo."
+27,28,"I Baal-hanan e gederita tabatin e palunan di oleifi i di sikamor den e vayenan na su enkargo. I Joas tabatin e depósitonan di zeta na su enkargo."
+27,29,"I Sitrai e saronita tabatin e bestianan di kria ku tabata kome yerba na Saron na su enkargo. I Safat, yu hòmber di Adlai, tabatin e bestianan di kria den e vayenan na su enkargo."
+27,30,"I Obil e ismaelita tabatin e kamelnan na su enkargo. I Jehedias e meronotita tabatin e burikunan na su enkargo."
+27,31,"I Jaziz e hagareno tabatin e tounan di bestia chikitu na su enkargo. Tur esakinan tabata atministradónan di e propiedat ku tabata pertenesé na rei David."
+27,32,"Tambe Jonatan, David su tio, tabata un konsehero, un hòmber di komprendementu i un eskriba; i Jehiel, yu hòmber di Hakmoni, tabata ku e yu hòmbernan di rei."
+27,33,"I Ahitofel tabata konsehero di rei; i Husai e arkita tabata rei su amigu."
+27,34,"I Joiada, yu hòmber di Bènaia, i Abiatar a sigui Ahitofel. I Joab tabata komandante di rei su ehérsito."
+28,1,"Awor David a reuní tur e ofisialnan di Israel na Jerusalèm, e prensnan di e tribunan i e komandantenan di e divishonnan ku tabata sirbi rei, e komandantenan di milnan i e komandantenan di shennan, i e atministradónan di tur propiedat i bestia di kria ku tabata pertenesé na rei i su yu hòmbernan, huntu ku e ofisialnan i e hòmbernan poderoso, tur e hòmbernan balente."
+28,2,"E ora ei rei David a lanta para i a bisa: \"Mi rumannan i mi pueblo, skuchami. Mi tabatin intenshon di traha un kas permanente pa e arka di e aliansa di SEÑOR i pa e banki-pa-pia di nos Dios. Asina mi a hasi preparashonnan pa trah'é."
+28,3,"Ma Dios a bisami: 'Abo lo no traha un kas pa Mi nòmber, pasobra bo ta un hòmber di guera i bo a drama sanger.'"
+28,4,"\"Tòg, SEÑOR, e Dios di Israel, a skohemi for di henter e kas di mi tata pa ta rei riba Israel pa semper. Pasobra El a skohe Juda pa ta lider, i for di e kas di Juda, mi tata su kas, i entre e yu hòmbernan di mi tata El a hiba gustu den mi pa hasimi rei di henter Israel."
+28,5,"I di tur mi yu hòmbernan (pasobra SEÑOR a dunami hopi yu hòmber), El a skohe mi yu Salomon pa sinta riba trono di e reino di SEÑOR riba Israel."
+28,6,"I El a bisami: 'Bo yu Salomon ta esun ku lo traha Mi kas i Mi plenchinan; pasobra Mi a skoh'é pa ta un yu pa Mi, i Ami lo ta un tata p'é."
+28,7,"I lo Mi stablesé su reino pa semper, si e pèrseverá pa kumpli ku Mi mandamentunan i Mi ordenansanan, manera riba dia djawe.'"
+28,8,"\"Asina anto, den bista di henter Israel, e asamblea di SEÑOR, i pa nos Dios tende, warda i skudriñá tur e mandamentunan di SEÑOR bo Dios, pa bo por poseé e bon tera i lagu'é komo erensia pa bo yu hòmbernan despues di bo pa semper."
+28,9,"\"Pa loke t'abo, mi yu Salomon, konosé e Dios di bo tata, i sirbiE ku henter bo kurason i ku un alma boluntario; pasobra SEÑOR ta skudriñá tur kurason i ta komprendé tur intenshon di e pensamentunan. Si bo busk'E, E lo lagabo hañ'E; ma si bo bandon'E, E lo rechasábo pa semper."
+28,10,"Pensa bon awor, pasobra SEÑOR a skohebo pa traha un kas pa e santuario; tene kurashi i aktua.\""
+28,11,"E ora ei David a duna su yu hòmber Salomon e plan di e veranda di e tèmpel, su edifisionan, su depósitonan, su kambernan ariba, su kambernan paden i e lugá pa e propisiatorio;"
+28,12,"i e plan di tur loke e tabatin pensá pa e plenchinan di e kas di SEÑOR, i pa tur e kambernan tur rònt, pa e depósitonan di e kas di Dios, i pa e depósitonan di e kosnan dediká;"
+28,13,"tambe pa e divishonnan di e saserdotenan i e levitanan i pa henter e trabou di sirbishi di e kas di SEÑOR i pa tur e artíkulonan-di-uzo di sirbishi den e kas di SEÑOR;"
+28,14,"pa e artíkulonan-di-uzo di oro, e peso di oro pa tur artíkulo-di-uzo pa tur sorto di sirbishi; pa e artíkulonan-di-uzo di plata, e peso di plata pa tur artíkulo-di-uzo pa tur sorto di sirbishi;"
+28,15,"i e peso di oro pa e kandelánan di oro i nan lampinan di oro, ku e peso di kada kandelá i su lampinan, i e peso di plata pa e kandelánan di plata, ku e peso di kada kandelá i su lampinan konforme e uzo di kada kandelá;"
+28,16,"i e oro na peso pa e mesanan di e pan di proposishon, pa kada mesa; i plata pa e mesanan di plata;"
+28,17,"i e fòrkinan, e kòmchinan i e kanikanan di oro puru, i pa e kòmchinan di oro, segun e peso di kada kòmchi; i pa e kòmchinan di plata, segun e peso di kada kòmchi;"
+28,18,"i pa e altar di sensia, oro refiná segun peso; i oro pa e konstrukshon di e garoshi, esta, e kerubinnan, ku tabatin nan halanan habrí, i ku tabata kubri e arka di e aliansa di SEÑOR."
+28,19,"\"Tur esaki,\" David a bisa, \"Señor a hasimi komprendé por eskrito, dor di Su man ku tabata riba mi, tur e detayenan di e plan aki.\""
+28,20,"E ora ei David a bisa su yu Salomon: \"Sea fuerte, tene kurashi i aktua; no tene miedu ni desmayá, pasobra SEÑOR Dios, mi Dios, ta ku bo. E lo no fayabo, ni bandonábo te ora tur e trabou pa e sirbishi di e kas di SEÑOR keda kla."
+28,21,"At'awor, tin e divishonnan di e saserdotenan i e levitanan pa henter e sirbishi di e kas di Dios, i kada hòmber boluntario i kapasitá lo ta ku bo den tur e trabou pa tur sorto di sirbishi. Tambe e ofisialnan i henter e pueblo lo ta kompletamente na bo òrdu.\""
+29,1,"E ora ei rei David a bisa henter e asamblea: \"Mi yu Salomon, e úniko ku Dios a skohe, ta hoben ainda i sin eksperensia i e trabou ta grandi; pasobra e tèmpel no ta pa hende, sino pa SEÑOR Dios."
+29,2,"Awor ku tur mi abilidat mi a proveé pa e kas di mi Dios: oro pa e kosnan di oro, plata pa e kosnan di plata i bròns pa e kosnan di bròns, heru pa e kosnan di heru, palu pa e kosnan di palu, piedra di òneks i piedra presioso pa dòrna, piedra pretu i piedra di varios koló, i tur sorto di piedra presioso i alabaster na abundansia."
+29,3,"I ademas, pa motibu di e delisia ku mi tin den e kas di mi Dios, mi ta duna e kas di mi Dios e tesoro ku mi tin na oro i plata, fuera di tur loke mi a proveé kaba pa e tèmpel santu:"
+29,4,"tres mil talento di oro, di e oro di Ofir, i shete mil talento di plata refiná, pa fura e murayanan di e edifisionan;"
+29,5,"oro pa e kosnan di oro, i plata pa e kosnan di plata, esta, pa tur e trabou ku e artesanonan a hasi. Ken anto ta boluntario pa konsagrá su mes na SEÑOR awe?\""
+29,6,"E ora ei e lidernan di e kasnan di e tatanan, e prensnan di e tribunan di Israel, e komandantenan di milnan i di shennan, huntu ku e atministradónan di e trabou di rei, a duna ofrenda boluntariamente;"
+29,7,"i pa e sirbishi di e kas di Dios nan a duna sinku mil talento, dies mil drakma di oro, dies mil talento di plata, diesocho mil talento di bròns i shen mil talento di heru."
+29,8,"I esnan ku tabatin piedra presioso a duna esakinan pa e lugá-di-warda-tesoro di e kas di SEÑOR, bou di kuido di Jehiel e gersonita."
+29,9,"E ora ei e pueblo a regosihá, pasobra nan a duna ofrenda boluntariamente, pasobra di henter nan kurason nan a duna SEÑOR nan ofrenda, i rei David tambe a regosihá masha."
+29,10,"Asina David a bendishoná SEÑOR dilanti di henter e asamblea, i David a bisa: \"Bo ta bendishoná, O SEÑOR, Dios di Israel nos tata, pa semper i semper."
+29,11,"Di Bo, O SEÑOR, ta e grandesa, e poder, e gloria, e viktoria i e mahestat, di bèrdat, tur loke ta den shelu i riba tera; e dominio ta di Bo, O SEÑOR, i Abo ta halsa Bo mes komo kabes riba tur kos."
+29,12,"Tantu rikesa komo onor ta bin for di Bo, i Bo ta reina riba tur kos, i den Bo man tin poder i forsa; i ta den Bo man pa engrandesé i pa fortalesé kada un."
+29,13,"Pesei anto, nos Dios, nos ta gradisíBo i ta alabá Bo nòmber glorioso."
+29,14,"\"Ma ta ken mi ta, i ta ken mi pueblo ta, ku nos lo por a duna un ofrenda generoso manera esun aki? Pasobra tur kos ta bin for di Bo i ta for di Bo man nos a dunaBo."
+29,15,"Pasobra nos ta stranhero i peregrino dilanti di Bo, manera tur nos tatanan tabata; nos dianan riba tera ta manera un sombra i no tin speransa."
+29,16,"O SEÑOR nos Dios, tur e abundansia aki ku nos a proveé pa traha un kas pa Bo nòmber santu ta bin for di Bo man, i tur kos ta di Bo."
+29,17,"Komo mi sa, O mi Dios, ku Bo ta skudriñá kurason i ku Bo tin delisia den rektitut, ami, den e integridat di mi kurason, a ofresé tur e kosnan aki boluntariamente. I awor ku goso mi a mira Bo pueblo, ku ta aki presente, duna nan ofrendanan boluntariamente na Bo."
+29,18,"O SEÑOR, e Dios di Abraham, Isaak i Israel, nos tatanan, preservá esaki pa semper den e intenshonnan di kurason di Bo pueblo, i dirigí nan kurason na Bo."
+29,19,"I duna mi yu hòmber Salomon un kurason perfekto pa warda Bo mandamentunan, Bo testimonionan i Bo statutonan, i pa kumpli ku nan tur, i pa traha e tèmpel, pa kual mi a hasi provishon.\""
+29,20,"E ora ei David a bisa henter e asamblea: \"Awor, bendishoná SEÑOR boso Dios.\" I henter e asamblea a bendishoná SEÑOR, e Dios di nan tatanan, i a bùig te na suela i a duna reverensia na SEÑOR i na rei."
+29,21,"I su manisé nan a ofresé sakrifisionan na SEÑOR i a ofresé ofrendanan kimá na SEÑOR: mil bishé machu, mil karné chubatu i mil lamchi, huntu ku nan ofrendanan di bibida i sakrifisionan na abundansia pa henter Israel."
+29,22,"Asina nan a kome i bebe e dia ei dilanti di SEÑOR ku gran alegria. I nan a hasi Salomon, yu hòmber di David, rei pa di dos biaha, i nan a ungié komo gobernante pa SEÑOR i Sadok komo saserdote."
+29,23,"E ora ei Salomon a sinta riba e trono di SEÑOR komo rei na lugá di su tata David; i e tabata prosperá, i henter Israel tabata obedes'é."
+29,24,"I tur e ofisialnan, e hòmbernan poderoso, i tambe tur e yu hòmbernan di rei David, a hura fieldat na rei Salomon."
+29,25,"I SEÑOR a halsa Salomon masha haltu mes den bista di henter Israel, i a dun'é tal mahestat real ku ningun rei promé kuné no tabatin na Israel."
+29,26,"Asina David, yu hòmber di Isaí, a reina riba henter Israel."
+29,27,"I e temporada ku el a reina riba Israel tabata kuarenta aña; el a reina shete aña na Hebròn i trint'i tres aña na Jerusalèm."
+29,28,"E ora ei el a muri na un edat hopi avansá, yen di dia, rikesa i onor; i su yu hòmber Salomon a reina na su lugá."
+29,29,"Awor e echonan di rei David, for di promé te na último, ta pará skirbí den e krónikanan di Samuel, e miradó, den e krónikanan di Natan, e profeta, i den e krónikanan di Gad, e miradó,"
+29,30,"huntu ku henter su reinado, su poder i e sirkumstansianan ku a bin riba djé, riba Israel i riba tur e reinonan di e teranan."

@@ -1,0 +1,11 @@
+<head>
+	<title>Buska algu</title>
+</head>
+<body>
+	<ul>
+{% for a in b %}
+<li>Buki: {{a['book']}} Kapitulo : {{a['chapter']}} Versikulo : {{a['vers']}} Texto : {{a['text']}}</li>
+{% endfor %}
+</ul>
+<h3>Mi a haña un total di {{b.count()}}</h3>
+</body>
